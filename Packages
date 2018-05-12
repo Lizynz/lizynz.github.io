@@ -5,10 +5,10 @@ Maintainer: Lizynz
 Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
 Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9
 Filename: ./debs/com.lizynz.fullfolder11_1.0_iphoneos-arm.deb
-Size: 1112
-MD5sum: 6a3ab2f9c8cf6f97fa22b61a7e4e97c9
-SHA1: 7c654d6eeb54204c46ce8b9258e0e7dbb2f96bbc
-SHA256: 2841ae2335b24044e9b2c449e0a9bed3e5ac3ec4d0f012d20b899719da95d4c4
+Size: 32646
+MD5sum: e851ad0a279012cd5d66d36437fe2d33
+SHA1: 735ab83864a8d4a295e8e1e5b025a440a1d67576
+SHA256: 67d4cf163b32edc35d34ea7131c7b17079e79c3d6a28ecb7b012ee17ace50d98
 Section: Tweaks
 Description: Full screen folders on homescreen
 Author: Lizynz
