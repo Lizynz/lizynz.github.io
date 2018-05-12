@@ -1,0 +1,10 @@
+Package: com.lizynz.fullfolder11
+Name: FullFolder11
+Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
+Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Full screen folders on homescreen
+Maintainer: Lizynz
+Author: Lizynz
+Section: Tweaks
