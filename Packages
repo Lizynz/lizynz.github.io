@@ -1,7 +1,7 @@
 Package: com.lizynz.fullfolder11
 Name: FullFolder11 
 Version: 1.0-1 
-Size: 188
+Size: 28124
 Architecture: iphoneos-arm
 Description: Full screen folders on homescreen for iOS 11
 Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
