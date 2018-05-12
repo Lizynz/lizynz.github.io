@@ -1,0 +1,14 @@
+Package: (com.yourname.packagename)
+Name: (Tweak Name) 
+Version: (Version Number)
+Size: (Size in Bytes)
+Architecture: iphoneos-arm
+Description: (Tweak Description)
+Maintainer: (Name) <email@provider.com>
+Author: (Name) <email@provider.com>
+Section: (Cydia Section)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//(Tweak Name).deb
+
