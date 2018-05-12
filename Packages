@@ -5,12 +5,28 @@ Maintainer: Lizynz <lizynz@ya.ru>
 Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
 Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9
 Filename: ./debs/com.lizynz.fullfolder11_1.0_iphoneos-arm.deb
-Size: 31758
-MD5sum: c64b1c7d297c0a07fdae5204bb19a56d
-SHA1: d49162a23e9c697d3d1f6c369671c8003a1eca31
-SHA256: 1176c429c2511cf8ef1fe648d8686b756c92b120fc77ebc822929b448b42d522
+Size: 32276
+MD5sum: 572014974f6c2ec9f18501b57af79495
+SHA1: 778acf96fe8316a0aeffbf6c6923b778575c79de
+SHA256: 199cb9e608ca7e01f91e210d20b40174271f991a64bf34989a3749cf4eab6141
 Section: Tweaks
 Description: Full screen folders on homescreen for iOS 11
 Author: Lizynz <lizynz@ya.ru>
 Name: FullFolder11
+
+Package: com.lizynz.vkshortcuts
+Version: 5.0~beta
+Architecture: iphoneos-arm
+Maintainer: Lizynz <lizynz@ya.ru>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.lizynz.vkshortcuts_5.0~beta_iphoneos-arm.deb
+Size: 48856
+MD5sum: fcfa475ffcc8e8175227455a557d38e8
+SHA1: e36c55d54e02885e764aa9f48e24af855bbd15b5
+SHA256: 5e14c51a81a9fbf5a1a54318afbf29eb54fc5db7e9b8392614bfa4a2d5e81ce2
+Section: Tweaks
+Description: 3D touch shortcuts menu for VK
+Author: Lizynz <lizynz@ya.ru>
+Name: vkShortcuts
 
