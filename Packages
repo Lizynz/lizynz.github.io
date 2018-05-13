@@ -1,19 +1,35 @@
 Package: com.lizynz.fullfolder11
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 188
 Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
 Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9
-Filename: ./debs/com.lizynz.fullfolder11_1.0_iphoneos-arm.deb
-Size: 28130
-MD5sum: 9d3ef8e53f1e17d51be822c2ab95f042
-SHA1: aa84b1170f45f9708939637ad73bf5932670f4a5
-SHA256: 3fe775524d3ee6054bd2d7737115bfd76ff16f61e9282d2ad1b512811269635e
+Filename: ./debs/com.lizynz.fullfolder11_1.0-1_iphoneos-arm.deb
+Size: 28406
+MD5sum: 6034817bebfd239ab925f33842783deb
+SHA1: e1f78c1a0caab1652b2322f8d143f36194a773e6
+SHA256: 3079f2b5556825a504d85f7d10e2c772cd8ac644ed796955dd710d4d6c5e45b7
 Section: Tweaks
 Description: Full screen folders on homescreen
 Author: Lizynz <lizynz@ya.ru>
 Name: FullFolder11
+
+Package: com.lizynz.vkmodule
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 264
+Depends: mobilesubstrate, firmware(>=11.0), com.opa334.ccsupport
+Filename: ./debs/com.lizynz.vkmodule_1.0-1_iphoneos-arm.deb
+Size: 29252
+MD5sum: 5fea5af4e913fc96831699c1c3c29865
+SHA1: 0f018b8c9af9cd252ba7ac6b07ade53b1d2b6332
+SHA256: 85272b601b4bd012cdd37d048c7e9b9a6677870085e81772b601ec789b6bfa3c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lizynz
+Name: VKModule
 
 Package: com.lizynz.vkshortcuts
 Version: 5.0~beta
