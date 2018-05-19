@@ -15,6 +15,22 @@ Description: Full screen folders on homescreen
 Author: Lizynz <lizynz@ya.ru>
 Name: FullFolder11
 
+Package: com.lizynz.removelabels
+Version: 1.0-0
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 176
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./debs/com.lizynz.removelabels_1.0-0_iphoneos-arm.deb
+Size: 19464
+MD5sum: bdf6c9a4a5bcd5196fb6bed477b00afa
+SHA1: 56d2a8cf5b656ffa68fbff3b58893796425d221d
+SHA256: b50ba462261ac9bbb1df227eb6c0772db31d85083b6017dcca9d17a671416719
+Section: Tweaks
+Description: Hide labels icons
+Author: Lizynz
+Name: Remove Labels
+
 Package: com.lizynz.vkmodule
 Version: 1.0-1
 Architecture: iphoneos-arm
