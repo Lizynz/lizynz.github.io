@@ -48,19 +48,19 @@ Author: Lizynz
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
-Version: 5.0~beta
+Version: 5.0.1
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 464
+Installed-Size: 460
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts_5.0~beta_iphoneos-arm.deb
-Size: 34188
-MD5sum: 8ac6dd2a34b599514651c7297a493ac7
-SHA1: 168a2d2be8bea4ea9b7186b45fb9734edbe8f94d
-SHA256: c739f45ff5d509f62f3bbb450c2d7b9607151a4fc25f6218eefdeebd40e3051a
+Filename: ./debs/com.lizynz.vkshortcuts_5.0.1_iphoneos-arm.deb
+Size: 29456
+MD5sum: eadbbf32eed975fdd9c1f4199f730d54
+SHA1: d4656a6fb2788aa0145e42efdfe6abc443976029
+SHA256: 5b871932670faeb77822777c2612fa97deb8904e37758b6126a270e938baf828
 Section: Tweaks
-Description: 3D touch shortcuts menu for VK
+Description: 3D Touch shortcuts menu for VK
 Author: Lizynz <lizynz@ya.ru>
 Name: vkShortcuts
 
