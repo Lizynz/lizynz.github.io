@@ -1,0 +1,46 @@
+<package>
+	<id>com.lizynz.vkshortcuts</id>
+	<name>vkShortcuts</name>
+	<version>5.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>3D Touch shortcuts menu for VK</description>
+		<description><![CDATA[
+		<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>vkShortcuts</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+				<description>Settings</description>
+				<image>2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>
+			Исправлена локализация, когда всегда был русский язык
+			Добавлен украинский язык
+			Добавлен пятый шорткат
+			Стабильная версия
+		</change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Donate</name>
+			<url></url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
