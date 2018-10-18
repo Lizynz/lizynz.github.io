@@ -1,52 +1,167 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Lizynz's Repo</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-loading">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>How Bout No's Repo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.2/darkly/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js"></script>
+  
+<style> 
+.card {
+transition: all .3s ease-in-out;
+}
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+.card:hover {
+	transform: scale(1.1);
+}
 
-				<!-- Main -->
-					<section id="main">
-						<header>
-							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
-							<h1>Lizynz</h1>
-							<p>Official Cydia Repo</p>
-						</header>
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.2); }
+</style>
+  
+</head>
+<body>
 
-						<footer>
-							<ul class="icons">
-								<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2Flizynz.github.io" class="fa-plus">Add Repo</a></li>
-							</ul>
-						</footer>
-					</section>
+<br />
+<div class="container">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item active"><a>Home</a></li>
+	</ol>
+</div>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<ul class="copyright">
-							<li>&copy; 2018</li>
-						</ul>
-					</footer>
+<div style="text-align:center">
+	<div class="container">
+		<img src="CydiaIcon.png">
+		<h1>Lizynz ~ Cydia Repo</h1>
+	</div>
+	<br><hr>
 
-			</div>
+	<div class="container">
+		<div class="well grow">
+			<!--
+			<p><span class="text-primary"><b>Reposi3</span></b> is a Cydia repository template.</p>
+			-->
+			<a class="btn btn-success progress-bar-striped progress-bar-animated" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://lizynz.github.io/">Add to Cydia</a>
+		</div>
+	</div>
+	
+	<hr><br><br><br>
 
-		<!-- Scripts -->
-			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
-			<script>
-				if ('addEventListener' in window) {
-					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
-					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+	<div class="container">
+	  <h3 id="wells" class="page-header">Hosted Packages</h3>
+	</div>
+	
+	<script type="text/javascript">
+	
+		// Auto package-lister script
+		
+		console.log("Listing packages...");
+	
+		function addRow(dict) {
+			var packname = dict["Name"];
+			var packver = dict["Version"];
+			var packdesc = dict["Description"];
+			var packdepic = dict["Depiction"];
+
+			var div = document.createElement('div');
+
+			div.className = 'card border-primary mb-3';
+			div.style = 'margin: 0 auto;max-width: 50rem;'
+
+			div.innerHTML =
+				'<div class="card-header">'+packname+' <span class="badge badge-primary">'+packver+'</span></div>\
+				<div class="card-body">\
+				<h5 class="card-title">'+packdesc+'</h5>\
+				<a href="'+packdepic+'" class="btn btn-info progress-bar-striped progress-bar-animated grow">More info</a>\
+				</div>';
+
+			document.getElementsByClassName('bs-component')[0].appendChild(div);
+		}
+
+		$( document ).ready(function() {
+			$.ajax({
+				type    : "GET",
+				dataType: "text",
+				url     : ("/Packages"),
+				success: function(data) {
+					var i, j, text, sortpackage;
+					var newdata = data.split('\n\n');
+					var allpackages = [];
+					for (i = 0; i < newdata.length; i++) {
+						text = newdata[i].replace(/: /g, '\n').split('\n');
+						sortpackage = {};
+						for (j= 0; j < text.length; j+=2) {
+							sortpackage[text[j]] = text[j+1];
+						}
+						allpackages.push(sortpackage);
+					}
+					for (i = 0; i < allpackages.length; i++) {
+						addRow(allpackages[i]);
+					}
 				}
-			</script>
+			}); //ajax
+		}); // ready
+		
+		
+	</script>
 
-	</body>
+	<div class="bs-component"></div>
+	
+</div>
+<br><br><hr><br><br>
+
+<!--     Ooh what's this? ... Just experimentation, that's all ;)
+
+<div class="container" id="disqus_thread"></div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = 'https://how-bout-no.github.io/';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'homepage'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://how-bout-no.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+-->
+
+<div id="quote"></div>
+  <script>
+    (function() {
+      var quotes = [
+        {
+          text: "Hey there..."
+        },
+		{
+          text: "What are you doing down here?"
+        },
+		{
+          text: "How's your day been?"
+        },
+		{
+          text: "Be sure to check out all the other stuff I do!"
+        },
+		{
+          text: "No secrets to be found..."
+        }
+      ];
+      var quote = quotes[Math.floor(Math.random() * quotes.length)];
+      document.getElementById("quote").innerHTML =
+        '<center>' + quote.text + ' &#128521;' + '</center>';
+    })();
+  </script>
+
+</body>
 </html>
