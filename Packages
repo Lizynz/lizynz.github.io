@@ -32,17 +32,17 @@ Author: Lizynz <lizynz@ya.ru>
 Name: FullFolder11
 
 Package: com.lizynz.fullfolderx
-Version: 1.1-2
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 180
+Installed-Size: 176
 Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
-Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9, com.lizynz.fullfolder11, com.cydiageek.huefolderbg
-Filename: ./debs/com.lizynz.fullfolderx_1.1-2_iphoneos-arm.deb
-Size: 170064
-MD5sum: aa37a1ad7a438be4435ff83f1592294c
-SHA1: 48d50bbd6ce30500114a03f18d58d6af0dc17d2a
-SHA256: b3d07a55eb0988a23bd4794581e370c425f8845dba6c7b26cc472ebf514f7d66
+Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.fullfolder9, com.lizynz.fullfolder11
+Filename: ./debs/com.lizynz.fullfolderx_2.0_iphoneos-arm.deb
+Size: 20412
+MD5sum: a3a2ea8a9f0992f58b16fc0b1f141f29
+SHA1: 84e81ac7ae8c25ec1bc82be53fa1e463856abb11
+SHA256: c9cbb20c2d86a2b0445d4b2441375bb3c4cf884f4ee26becc2e345a0d60b337b
 Section: Tweaks
 Description: Full screen folders on homescreen
 Author: Lizynz <lizynz@ya.ru>
