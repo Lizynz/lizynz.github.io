@@ -15,17 +15,17 @@ Author: Lizynz
 Name: Betternet Free Premium
 
 Package: com.lizynz.fullfolder11
-Version: 1.1-3
+Version: 1.1-4
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 188
 Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
 Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9
-Filename: ./debs/com.lizynz.fullfolder11_1.1-3_iphoneos-arm.deb
-Size: 28096
-MD5sum: 3205dce8baa805dd5e873e9985ee914b
-SHA1: 5cc8a0cd2f36bcfeab2059710a3326be827be244
-SHA256: 786ea5e8b78384f292f946592b929b8ce099a1140b10d6072bfdb24ff3c69c92
+Filename: ./debs/com.lizynz.fullfolder11_1.1-4_iphoneos-arm.deb
+Size: 28240
+MD5sum: 1b55413f25a60937e1e815f639414f8e
+SHA1: e5384c6da551698adc04a3bf228e3e812e3883c3
+SHA256: d63e2ac759e558f77d0100c45e02cb7edad96a6bc9e185a496287b6923056d22
 Section: Tweaks
 Description: Full screen folders on homescreen
 Author: Lizynz <lizynz@ya.ru>
