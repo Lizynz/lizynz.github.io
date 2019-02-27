@@ -49,16 +49,16 @@ Author: Lizynz <lizynz@ya.ru>
 Name: FullFolderX
 
 Package: com.lizynz.removelabels
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 176
 Depends: mobilesubstrate, firmware(>=11.0)
-Filename: ./debs/com.lizynz.removelabels_1.0-2_iphoneos-arm.deb
-Size: 19488
-MD5sum: 614068f030a356666b1eab04d46971c7
-SHA1: 3ddb04c5caa3c57809f2769c0410ac46f6053c60
-SHA256: 4dcc15b6111aea6e1c26ff029545519b2850abc1ae276c76e14383b85906ba9c
+Filename: ./debs/com.lizynz.removelabels_1.0-3_iphoneos-arm.deb
+Size: 19612
+MD5sum: 23cdd82b4be7c37147f8b2b32002293d
+SHA1: 7acb6d4775ca4dde1da1712edb082f50f7ad1baa
+SHA256: 3a82e793c2d4c6a2cb119f2a3312fd82db4bb40f3a7ba24e2b6d4a849dace372
 Section: Tweaks
 Description: Hide labels icons
 Author: Lizynz
