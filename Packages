@@ -65,16 +65,16 @@ Author: Lizynz
 Name: Remove Labels
 
 Package: com.lizynz.restartmodule
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 84
 Depends: mobilesubstrate, firmware(>=11.0), com.opa334.ccsupport
-Filename: ./debs/com.lizynz.restartmodule_1.0_iphoneos-arm.deb
-Size: 11652
-MD5sum: dc8a503f7b0d55f4365a4c2e072402e0
-SHA1: 2ce5965bae815f6c56ba710617bb8c3ea4996499
-SHA256: 648b9677378d27807ef35168c233c0b0a3b741b92053955b7b75d55317743eb7
+Filename: ./debs/com.lizynz.restartmodule_1.0-1_iphoneos-arm.deb
+Size: 11920
+MD5sum: 11e873393a5ecfe8b673c5c88e582635
+SHA1: 05385fa3316ed18939b9fe2105f607f0d52f1050
+SHA256: e0a1d78114e1dd8478842c35ba92b053da2d5eea167e4eea5a5cec48243db3aa
 Section: Tweaks
 Description: Restart module in style iOS
 Author: Lizynz
