@@ -49,16 +49,16 @@ Author: Lizynz <lizynz@ya.ru>
 Name: FullFolderX
 
 Package: com.lizynz.removelabels
-Version: 1.0-3
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Lizynz
-Installed-Size: 176
+Installed-Size: 304
 Depends: mobilesubstrate, firmware(>=11.0)
-Filename: ./debs/com.lizynz.removelabels_1.0-3_iphoneos-arm.deb
-Size: 19612
-MD5sum: 23cdd82b4be7c37147f8b2b32002293d
-SHA1: 7acb6d4775ca4dde1da1712edb082f50f7ad1baa
-SHA256: 3a82e793c2d4c6a2cb119f2a3312fd82db4bb40f3a7ba24e2b6d4a849dace372
+Filename: ./debs/com.lizynz.removelabels_1.1_iphoneos-arm.deb
+Size: 21596
+MD5sum: 5d1430943f6545ce09cb803898fd1636
+SHA1: 98d8fa18cc7d043f869041d27dd249133cb8143b
+SHA256: 902473bc5c56ac857897d13d70cf22295aa8a51b5e580f0766d8b66b67ce03a9
 Section: Tweaks
 Description: Hide labels icons
 Author: Lizynz
@@ -97,17 +97,17 @@ Author: Lizynz
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
-Version: 6.0
+Version: 6.1
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 208
+Installed-Size: 336
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts_6.0_iphoneos-arm.deb
-Size: 23264
-MD5sum: 220eb92730321fbf82e4ed2355e93c93
-SHA1: 8f188f369bde4880961ddda7a84ceeaa129213a3
-SHA256: 9aa2c5f1b2913df395de38eaa7a90605cfee31577715b19f87c43a299210580e
+Filename: ./debs/com.lizynz.vkshortcuts_6.1_iphoneos-arm.deb
+Size: 27164
+MD5sum: 156df084b53348b3191e8d358f276316
+SHA1: 4c82f75354ee5ea663087b473256a738a04d28d9
+SHA256: 53bec62b44a2e85d0f6c07fe2245bded3ed15134746bea11bd129764e1500f88
 Section: Tweaks
 Description: 3D Touch shortcuts menu for VK
 Author: Lizynz <lizynz@ya.ru>
