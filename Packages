@@ -48,6 +48,22 @@ Description: Full screen folders on homescreen
 Author: Lizynz <lizynz@ya.ru>
 Name: FullFolderX
 
+Package: com.lizynz.mute
+Version: 0.0.1-11
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.lizynz.mute_0.0.1-11_iphoneos-arm.deb
+Size: 12192
+MD5sum: 72a5ac998b09d6457e28dd5ca4721b09
+SHA1: ff53e83b9f4e6ea7aad0a77e59f14d74eb1a3c42
+SHA256: 1f1b969352ce4f793cc5080963a62a56673a8241357ccb3a083b9e7d690f1bf2
+Section: Tweaks
+Description: Mute status bar icon
+Author: Lizynz
+Name: Mute
+
 Package: com.lizynz.removelabels
 Version: 1.1
 Architecture: iphoneos-arm
