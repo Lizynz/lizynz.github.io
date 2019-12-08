@@ -14,6 +14,22 @@ Description: Betternet Premium for 3.4.2
 Author: Lizynz
 Name: Betternet Free Premium
 
+Package: com.lizynz.foldercolor
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 308
+Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
+Filename: ./debs/com.lizynz.foldercolor_2.0-1_iphoneos-arm.deb
+Size: 26484
+MD5sum: 5985754413a767e81eb0587225c7e2c1
+SHA1: a8d589889b21128269c0c79606b071d426a5115d
+SHA256: a40ebb86a209fc55029caa88cf00898354eeaf4d329f81d63485a73409446ad8
+Section: Tweaks
+Description: Customize your folders.
+Author: Lizynz
+Name: FolderColor
+
 Package: com.lizynz.fullfolder11
 Version: 1.1-4
 Architecture: iphoneos-arm
