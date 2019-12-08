@@ -15,16 +15,16 @@ Author: Lizynz
 Name: Betternet Free Premium
 
 Package: com.lizynz.foldercolor
-Version: 2.0-2
+Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 308
 Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.lizynz.foldercolor_2.0-2_iphoneos-arm.deb
-Size: 26052
-MD5sum: 056a0f8c8c2cc5ac76618818f9b444ce
-SHA1: 685d657c738566c04b742b73b052fa2be0c6cd2e
-SHA256: 2af64b68ba861972b92aedb0d34cbfa40d8f791363fec687b7d3c68b601bea63
+Filename: ./debs/com.lizynz.foldercolor_2.0-3_iphoneos-arm.deb
+Size: 26008
+MD5sum: 5ea3a1e676db5801474a9fd6672dccc4
+SHA1: f401da119ead79a3ee3d385aa15749d1cc92093f
+SHA256: f8082a4fce915012e3483306f5ffa23abb767f2e1d8f13dd9a83517950b4663f
 Section: Tweaks
 Description: Customize your folders.
 Author: Lizynz
