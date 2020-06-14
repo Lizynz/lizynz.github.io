@@ -1,0 +1,147 @@
+Package: com.lizynz.betternetfreepremium
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-1+debug_iphoneos-arm.deb
+Size: 122862
+MD5sum: 2cfb151cad9a7e64c73ee6880c6e2c46
+SHA1: 3d283af6d7c4bdd7d05ac6bb334573020926a581
+SHA256: d565a3d2b4cfb58023d4b7505a8f113b9e6f50a1e39c04536c93a9592ad5b24c
+Section: Tweaks
+Description: Betternet Premium for 3.4.2
+Author: Lizynz
+Name: Betternet Free Premium
+
+Package: com.lizynz.foldercolor
+Version: 2.0-3
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 308
+Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
+Filename: ./debs/com.lizynz.foldercolor_2.0-3_iphoneos-arm.deb
+Size: 26008
+MD5sum: 5ea3a1e676db5801474a9fd6672dccc4
+SHA1: f401da119ead79a3ee3d385aa15749d1cc92093f
+SHA256: f8082a4fce915012e3483306f5ffa23abb767f2e1d8f13dd9a83517950b4663f
+Section: Tweaks
+Description: Customize your folders.
+Author: Lizynz
+Name: FolderColor
+
+Package: com.lizynz.fullfolder11
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 188
+Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
+Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser,  com.lizynz.foldercolor, com.lizynz.fullfolder9
+Filename: ./debs/com.lizynz.fullfolder11_1.1-4_iphoneos-arm.deb
+Size: 28240
+MD5sum: 1b55413f25a60937e1e815f639414f8e
+SHA1: e5384c6da551698adc04a3bf228e3e812e3883c3
+SHA256: d63e2ac759e558f77d0100c45e02cb7edad96a6bc9e185a496287b6923056d22
+Section: Tweaks
+Description: Full screen folders on homescreen
+Author: Lizynz <lizynz@ya.ru>
+Name: FullFolder11
+
+Package: com.lizynz.fullfolderx
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 176
+Depends: mobilesubstrate, firmware(>=11.0), com.chpwn.iconsupport
+Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.fullfolder9, com.lizynz.fullfolder11
+Filename: ./debs/com.lizynz.fullfolderx_2.0-1_iphoneos-arm.deb
+Size: 20428
+MD5sum: 3fea6991056c22ab70b4f61d7048fe37
+SHA1: 359cd9adcb3bf658cdede6d98871a0f8cdd824de
+SHA256: 3a76c07a7775482dc6fc69c6f3ba7128c4869ebbfae5d86f9df81639e888a20b
+Section: Tweaks
+Description: Full screen folders on homescreen
+Author: Lizynz <lizynz@ya.ru>
+Name: FullFolderX
+
+Package: com.lizynz.mute
+Version: 0.0.1-11
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.lizynz.mute_0.0.1-11_iphoneos-arm.deb
+Size: 12192
+MD5sum: 72a5ac998b09d6457e28dd5ca4721b09
+SHA1: ff53e83b9f4e6ea7aad0a77e59f14d74eb1a3c42
+SHA256: 1f1b969352ce4f793cc5080963a62a56673a8241357ccb3a083b9e7d690f1bf2
+Section: Tweaks
+Description: Mute status bar icon
+Author: Lizynz
+Name: Mute
+
+Package: com.lizynz.removelabels
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 304
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./debs/com.lizynz.removelabels_1.1_iphoneos-arm.deb
+Size: 21596
+MD5sum: 5d1430943f6545ce09cb803898fd1636
+SHA1: 98d8fa18cc7d043f869041d27dd249133cb8143b
+SHA256: 902473bc5c56ac857897d13d70cf22295aa8a51b5e580f0766d8b66b67ce03a9
+Section: Tweaks
+Description: Hide labels icons
+Author: Lizynz
+Name: Remove Labels
+
+Package: com.lizynz.restartmodule
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 84
+Depends: mobilesubstrate, firmware(>=11.0), com.opa334.ccsupport
+Filename: ./debs/com.lizynz.restartmodule_1.0-2_iphoneos-arm.deb
+Size: 12284
+MD5sum: 5b6349c81d117f1ca230fe7b8f4d7aba
+SHA1: 9538e7904a26fb099b8a35a98193aa8bdc027903
+SHA256: 962deddf6258734dab572e7568bcc84eda3b067bac193170822a4040374825cb
+Section: Tweaks
+Description: Restart module in style iOS
+Author: Lizynz
+Name: RestartModule
+
+Package: com.lizynz.vkmodule
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 264
+Depends: mobilesubstrate, firmware(>=11.0), com.opa334.ccsupport
+Filename: ./debs/com.lizynz.vkmodule_1.0-1_iphoneos-arm.deb
+Size: 29252
+MD5sum: 5fea5af4e913fc96831699c1c3c29865
+SHA1: 0f018b8c9af9cd252ba7ac6b07ade53b1d2b6332
+SHA256: 85272b601b4bd012cdd37d048c7e9b9a6677870085e81772b601ec789b6bfa3c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lizynz
+Name: VKModule
+
+Package: com.lizynz.vkshortcuts
+Version: 8.1
+Architecture: iphoneos-arm
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 560
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.lizynz.vkshortcuts_8.1_iphoneos-arm.deb
+Size: 95894
+MD5sum: 054298a2b871b5a0e3ed4b8110bf76d1
+SHA1: f3a8b0eaa2bd6e89214ab959a3dd70608e8b84a4
+SHA256: 0b313fb5b87f00d94da806f84e57d85960944acaba4d1f5a68b0bce9cb20cb44
+Section: Tweaks
+Description: 3D Touch shortcuts menu for VK
+Author: Lizynz <lizynz@ya.ru>
+Name: vkShortcuts
+
