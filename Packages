@@ -80,38 +80,6 @@ Description: Mute status bar icon
 Author: Lizynz
 Name: Mute
 
-Package: com.lizynz.removelabels
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Lizynz
-Installed-Size: 304
-Depends: mobilesubstrate, firmware(>=11.0)
-Filename: ./debs/com.lizynz.removelabels_1.1_iphoneos-arm.deb
-Size: 21596
-MD5sum: 5d1430943f6545ce09cb803898fd1636
-SHA1: 98d8fa18cc7d043f869041d27dd249133cb8143b
-SHA256: 902473bc5c56ac857897d13d70cf22295aa8a51b5e580f0766d8b66b67ce03a9
-Section: Tweaks
-Description: Hide labels icons
-Author: Lizynz
-Name: Remove Labels
-
-Package: com.lizynz.restartmodule
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: Lizynz
-Installed-Size: 84
-Depends: mobilesubstrate, firmware(>=11.0), com.opa334.ccsupport
-Filename: ./debs/com.lizynz.restartmodule_1.0-2_iphoneos-arm.deb
-Size: 12284
-MD5sum: 5b6349c81d117f1ca230fe7b8f4d7aba
-SHA1: 9538e7904a26fb099b8a35a98193aa8bdc027903
-SHA256: 962deddf6258734dab572e7568bcc84eda3b067bac193170822a4040374825cb
-Section: Tweaks
-Description: Restart module in style iOS
-Author: Lizynz
-Name: RestartModule
-
 Package: com.lizynz.vkmodule
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -129,17 +97,17 @@ Author: Lizynz
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
-Version: 8.1
+Version: 8.2
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 560
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts_8.1_iphoneos-arm.deb
-Size: 95894
-MD5sum: 054298a2b871b5a0e3ed4b8110bf76d1
-SHA1: f3a8b0eaa2bd6e89214ab959a3dd70608e8b84a4
-SHA256: 0b313fb5b87f00d94da806f84e57d85960944acaba4d1f5a68b0bce9cb20cb44
+Filename: ./debs/com.lizynz.vkshortcuts_8.2_iphoneos-arm.deb
+Size: 95866
+MD5sum: 40dabcc4de3f3c2013d9911ae1c62eac
+SHA1: 0c7abe5ced72d2f72300a6a717a95ab6e5c39bc3
+SHA256: c9ba42dac985e597b3d8a999943b5a00c801b22f9bac10aa2296f190fb554a05
 Section: Tweaks
 Description: 3D Touch shortcuts menu for VK
 Author: Lizynz <lizynz@ya.ru>
