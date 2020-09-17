@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Support only iOS 13.x ~ 13.x.x</shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 13.0</shortDescription>
 	<descriptionlist>
 		<description>Quick action for VK.</description>
 	</descriptionlist>
