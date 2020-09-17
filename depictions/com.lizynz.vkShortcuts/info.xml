@@ -23,6 +23,6 @@
 	<changelog>
 		<change>Поддержка последней версии VK</change>
 		<change>Исправлен шорткат Подкасты</change>
-		<change>SDK 13.7</change>
+		<change>SDK 13.7 </change>
 	</changelog>
 </package>
