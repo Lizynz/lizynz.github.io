@@ -1,43 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Lizynz</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <link rel="stylesheet" href="depictions/style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-</head>
-<body>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Lizynz's Repo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading">
 
-<div class="container">
-	<h1><img src="CydiaIcon.png"> Lizynz</h1>
-</div>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-<div class="container">
-	<div class="card">
-		<div class="card-body">
-			<p><span class="text-primary"><b>Lizynz</span></b> is a Cydia repository template.</p>
-			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://lizynz.github.io/">Add to Cydia</a>
-		</div>
-	</div>
-</div>
-<p></p>
-<div class="container">
-  <h3 id="wells" class="page-header">Packages</h3>
-</div>
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<h1>Lizynz</h1>
+							<p>Official Cydia Repo</p>
+						</header>
 
-<div class="container">
-	<div class="card">
-		<div class="card-header">
-			vkShortcuts
-		</div>
-		<div class="card-body">
-		  <p class="card-text">Quick action for VK.</p>
-		  <a class="btn btn-xs btn-primary" href="depictions/?p=com.lizynz.vkshortcuts">More info</a>
-		</div>
-	</div>
-</div>
+						<footer>
+							<ul class="icons">
+								<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2Flizynz.github.io" class="fa-plus">Add Repo</a></li>
+							</ul>
+						</footer>
+					</section>
 
-</body>
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; 2018</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
 </html>
