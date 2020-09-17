@@ -1,28 +1,17 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.lizynz.vkshortcuts
+Version: 8.2
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 560
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.lizynz.vkshortcuts_8.2_iphoneos-arm.deb
+Size: 95866
+MD5sum: 40dabcc4de3f3c2013d9911ae1c62eac
+SHA1: 0c7abe5ced72d2f72300a6a717a95ab6e5c39bc3
+SHA256: c9ba42dac985e597b3d8a999943b5a00c801b22f9bac10aa2296f190fb554a05
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Description: 3D Touch shortcuts menu for VK
+Author: Lizynz <lizynz@ya.ru>
+Name: vkShortcuts
 
