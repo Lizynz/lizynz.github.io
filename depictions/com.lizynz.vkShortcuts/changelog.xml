@@ -1,17 +1,17 @@
 <changelog>
         <changes>
 		<version>8.2</version>
-		<change>Поддержка последней версии VK</change>
-                <change>Исправлен шорткат Подкасты</change>
-                <change>SDK 13.7</change>
+		<change>- Поддержка последней версии VK</change>
+                <change>- Исправлен шорткат Подкасты</change>
+                <change>- SDK 13.7</change>
 	</changes>
 	<changes>
 		<version>8.1</version>
-		<change>Добавлен шорткат Клипы</change>
+		<change>- Добавлен шорткат Клипы</change>
 	</changes>
 	<changes>
 		<version>8.0</version>
-		<change>Поддержка последней версии VK</change>
-                <change>Поддержка тёмной темы iOS 13</change>
+		<change>- Поддержка последней версии VK</change>
+                <change>- Поддержка тёмной темы iOS 13</change>
 	</changes>
 </changelog>
