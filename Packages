@@ -1,16 +1,16 @@
 Package: com.lizynz.betternetfreepremium
-Version: 1.0.1-1+debug
+Version: 1.0.1-4
 Architecture: iphoneos-arm
 Maintainer: Lizynz
-Installed-Size: 120
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-1+debug_iphoneos-arm.deb
-Size: 122862
-MD5sum: 2cfb151cad9a7e64c73ee6880c6e2c46
-SHA1: 3d283af6d7c4bdd7d05ac6bb334573020926a581
-SHA256: d565a3d2b4cfb58023d4b7505a8f113b9e6f50a1e39c04536c93a9592ad5b24c
+Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-4_iphoneos-arm.deb
+Size: 3224
+MD5sum: 295ea647a172eed6a764fc70718eb802
+SHA1: 4042b0b416212774c33962aa15d1ede5e53af799
+SHA256: ac874965f9b363d196d2481721e1d277ad7d91ff1bcde56e4a95c4ab2a676e1c
 Section: Tweaks
-Description: Betternet Premium for 3.4.2
+Description: Betternet Premium for 5.7.1
 Author: Lizynz
 Name: Betternet Free Premium
 
