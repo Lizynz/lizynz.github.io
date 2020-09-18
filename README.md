@@ -1,1 +1,0 @@
-lizynz.github.io
