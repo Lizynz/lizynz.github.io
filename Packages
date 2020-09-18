@@ -30,6 +30,22 @@ Description: Customize your folders.
 Author: Lizynz
 Name: FolderColor
 
+Package: com.lizynz.vkmodule
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 216
+Depends: mobilesubstrate, firmware(>=13.0), com.opa334.ccsupport
+Filename: ./debs/com.lizynz.vkmodule_1.0-2_iphoneos-arm.deb
+Size: 33114
+MD5sum: 09d53349322304155ff0f81c0d7b098a
+SHA1: 15848e5ffc4182c6af211839c53596074e5ea0c2
+SHA256: fc813a845dad393d33b687bbebb1cb73bde57f11959459e0d7bd79da8140a8cc
+Section: Tweaks
+Description: VK module for ControlCenter
+Author: Lizynz
+Name: VKModule
+
 Package: com.lizynz.vkshortcuts
 Version: 8.3
 Architecture: iphoneos-arm
