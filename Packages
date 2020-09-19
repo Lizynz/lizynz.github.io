@@ -1,33 +1,34 @@
 Package: com.lizynz.betternetfreepremium
-Version: 1.0.1-4
+Version: 1.0.1-5
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-4_iphoneos-arm.deb
-Size: 3224
-MD5sum: 295ea647a172eed6a764fc70718eb802
-SHA1: 4042b0b416212774c33962aa15d1ede5e53af799
-SHA256: ac874965f9b363d196d2481721e1d277ad7d91ff1bcde56e4a95c4ab2a676e1c
+Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-5_iphoneos-arm.deb
+Size: 3254
+MD5sum: 565dfdd10dec7f3e3c5627e0ab837ad5
+SHA1: 1b4a10edc1699c6f853e49658558a96cc7581ea7
+SHA256: c3fe69bd7531f1e51d2f6f9830c70c1e63f9e8e8d33d8929c4297558be39eb08
 Section: Tweaks
 Description: Betternet Premium for 5.7.1
 Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.betternetfreepremium
 Name: Betternet Free Premium
 
 Package: com.lizynz.foldercolor
 Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Lizynz
-Installed-Size: 308
-Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, firmware(>=13.0), org.thebigboss.libcolorpicker
 Filename: ./debs/com.lizynz.foldercolor_2.0-3_iphoneos-arm.deb
-Size: 26008
-MD5sum: 5ea3a1e676db5801474a9fd6672dccc4
-SHA1: f401da119ead79a3ee3d385aa15749d1cc92093f
-SHA256: f8082a4fce915012e3483306f5ffa23abb767f2e1d8f13dd9a83517950b4663f
+Size: 33994
+MD5sum: af68cd941c3a8e3d01942d94bb32b8d9
+SHA1: 51abd127fd176eeab50328ecf99591d88263c31b
+SHA256: deea73b1caa2f11d180fbdc2cba3173d876930b26bb42c70f39127a76c08503c
 Section: Tweaks
 Description: Customize your folders.
 Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
 Name: FolderColor
 
 Package: com.lizynz.vkmodule
@@ -37,13 +38,14 @@ Maintainer: Lizynz
 Installed-Size: 216
 Depends: mobilesubstrate, firmware(>=13.0), com.opa334.ccsupport
 Filename: ./debs/com.lizynz.vkmodule_1.0-2_iphoneos-arm.deb
-Size: 33114
-MD5sum: 09d53349322304155ff0f81c0d7b098a
-SHA1: 15848e5ffc4182c6af211839c53596074e5ea0c2
-SHA256: fc813a845dad393d33b687bbebb1cb73bde57f11959459e0d7bd79da8140a8cc
+Size: 33142
+MD5sum: e3b84c915fdd88545afca8749cc79424
+SHA1: 8f3ed983a114476e850892b6c5f6e514e0401af2
+SHA256: be1f6c86f9d31f120cacb6a265287bb05fbc8702b5fa2197ec21de950717b18e
 Section: Tweaks
 Description: VK module for ControlCenter
 Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
