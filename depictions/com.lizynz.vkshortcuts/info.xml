@@ -18,6 +18,20 @@
 		]]>
 	</description> -->
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>vkS1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>vkS2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>vkS3.jpg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Исправлено описание твика на корректное</change>
 	</changelog>
