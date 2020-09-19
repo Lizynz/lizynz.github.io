@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Lizynz</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="depictions/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+	<h1><img src="CydiaIcon.png"> Lizynz</h1>
+</div>
+
+<div class="container">
+	<div class="card">
+		<div class="card-body">
+			<p><span class="text-primary"><b>Lizynz</span></b> add a repo to one of the popular package managers</p>
+			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://lizynz.github.io/">Add to Cydia</a>
+      <a class="btn btn-sm btn-primary" href="zbra://sources/add/https://lizynz.github.io/">Add to Zebra</a>
+      <a class="btn btn-sm btn-primary" href="sileo://source/https://lizynz.github.io/">Add to Sileo</a>
+      <a class="btn btn-sm btn-primary" href="installer://add/repo=https://lizynz.github.io/">Add to Installer</a>
+		</div>
+	</div>
+</div>
+<p></p>
+<div class="container">
+  <h3 id="wells" class="page-header">All Packages</h3>
+</div>
+
+<div class="container">
+        <div class="card">
+		<div class="card-header">
+			Betternet Free Premium
+		</div>
+		<div class="card-body">
+		  <p class="card-text">Betternet Premium for 5.7.1</p>
+		  <a class="btn btn-xs btn-primary" href="depictions/?p=com.lizynz.betternetfreepremium">More info</a>
+		</div>
+	</div>
+        <div class="card">
+		<div class="card-header">
+			FolderColor
+		</div>
+		<div class="card-body">
+		  <p class="card-text">Customize your folders</p>
+		  <a class="btn btn-xs btn-primary" href="depictions/?p=com.lizynz.foldercolor">More info</a>
+		</div>
+	</div>
+        <div class="card">
+		<div class="card-header">
+			VKModule
+		</div>
+		<div class="card-body">
+		  <p class="card-text">VK module for ControlCenter</p>
+		  <a class="btn btn-xs btn-primary" href="depictions/?p=com.lizynz.vkmodule">More info</a>
+		</div>
+	</div>
+        <div class="card">
+		<div class="card-header">
+			vkShortcuts
+		</div>
+		<div class="card-body">
+		  <p class="card-text">Quick action for VK</p>
+		  <a class="btn btn-xs btn-primary" href="depictions/?p=com.lizynz.vkshortcuts">More info</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
