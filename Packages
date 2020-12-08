@@ -15,6 +15,22 @@ Author: Lizynz
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.betternetfreepremium
 Name: Betternet Free Premium
 
+Package: com.lizynz.drugvokrugvip
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lizynz.drugvokrugvip_1.0_iphoneos-arm.deb
+Size: 4552
+MD5sum: 0bd34a14a933532def6c7fbe76e2af27
+SHA1: 47f2a531b7a04aed3e34570a42b158e38f53edca
+SHA256: 085c6ddbd0af08268c7d5339862c0e178eb526082a6f3a26fff9e70f69659bc2
+Section: Tweaks
+Description: Enable VIP for Drug Vokrug
+Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.drugvokrugvip
+Name: DrugVokrug VIP
+
 Package: com.lizynz.foldercolor
 Version: 2.0-3
 Architecture: iphoneos-arm
