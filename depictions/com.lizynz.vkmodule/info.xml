@@ -1,0 +1,43 @@
+<package>
+	<id>com.lizynz.vkmodule</id>
+	<name>VKModule</name>
+    <version>1.0-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>VK module for ControlCenter</shortDescription>
+	<descriptionlist>
+		<description>VK module for ControlCenter</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>VKM.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Support iOS 13.x.x</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lizynz1</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/u/Lizynz</name>
+			<url>https://www.reddit.com/u/lizynz</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
+

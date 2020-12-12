@@ -1,9 +1,0 @@
-{
-	"name": "Folder Color",
-	"desc_short": "Customize your folders",
-	"desc_long": "Change the color of folders according to your style.",
-	"compatitle": "iOS 13",
-	"changelog": "<strong>2.0-3</strong><br>+ Full support iOS 13.x.x;<br>",
-	"screenshot": "<div style='text-align:center;'><a href='' target='_blank'><img width=95% src=''/></a><br></div>",
-	"open": true,
-}

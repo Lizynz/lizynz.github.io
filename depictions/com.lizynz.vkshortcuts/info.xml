@@ -1,0 +1,53 @@
+<package>
+	<id>com.lizynz.vkshortcuts</id>
+	<name>vkShortcuts</name>
+    <version>8.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>Quick action for VK</shortDescription>
+	<descriptionlist>
+		<description>Quickly navigate to the desired section VK</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>vkS1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>vkS2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>vkS3.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>- Исправлены иконки для темной темы, теперь они меняются сразу
+- Удалено много лишнего, улучшен код, уменьшен размер
+- Удален шорткат клипы</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lizynz1</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/u/Lizynz</name>
+			<url>https://www.reddit.com/u/lizynz</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
+

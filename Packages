@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debfiles/com.lizynz.betternetfreepremium_1.0.1-5_iphoneos-arm.deb
+Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-5_iphoneos-arm.deb
 Size: 3254
 MD5sum: 565dfdd10dec7f3e3c5627e0ab837ad5
 SHA1: 1b4a10edc1699c6f853e49658558a96cc7581ea7
@@ -15,12 +15,28 @@ Author: Lizynz
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.betternetfreepremium
 Name: Betternet Free Premium
 
+Package: com.lizynz.drugvokrugvip
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lizynz.drugvokrugvip_1.0_iphoneos-arm.deb
+Size: 4552
+MD5sum: 0bd34a14a933532def6c7fbe76e2af27
+SHA1: 47f2a531b7a04aed3e34570a42b158e38f53edca
+SHA256: 085c6ddbd0af08268c7d5339862c0e178eb526082a6f3a26fff9e70f69659bc2
+Section: Tweaks
+Description: Enable VIP for Drug Vokrug
+Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.drugvokrugvip
+Name: DrugVokrug VIP
+
 Package: com.lizynz.foldercolor
 Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Depends: mobilesubstrate, firmware(>=13.0), org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.lizynz.foldercolor_2.0-3_iphoneos-arm.deb
+Filename: ./debs/com.lizynz.foldercolor_2.0-3_iphoneos-arm.deb
 Size: 33994
 MD5sum: af68cd941c3a8e3d01942d94bb32b8d9
 SHA1: 51abd127fd176eeab50328ecf99591d88263c31b
@@ -37,15 +53,15 @@ Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 216
 Depends: mobilesubstrate, firmware(>=13.0), com.opa334.ccsupport
-Filename: ./debfiles/com.lizynz.vkmodule_1.0-2_iphoneos-arm.deb
-Size: 33160
-MD5sum: d2a39389176f34b632b305d68ee931c8
-SHA1: 54f2e7d10b40b08304e18d67d6e5082b4e6aacc3
-SHA256: 1beccb341ee4f41aa49b71be113fb0113d401b8c9370bda16530b11b0f2373a9
+Filename: ./debs/com.lizynz.vkmodule_1.0-2_iphoneos-arm.deb
+Size: 33142
+MD5sum: e3b84c915fdd88545afca8749cc79424
+SHA1: 8f3ed983a114476e850892b6c5f6e514e0401af2
+SHA256: be1f6c86f9d31f120cacb6a265287bb05fbc8702b5fa2197ec21de950717b18e
 Section: Tweaks
 Description: VK module for ControlCenter
 Author: Lizynz
-Depiction: https://lizynz.github.io/description.html?id=com.lizynz.vkmodule
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
@@ -55,14 +71,14 @@ Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 472
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
-Filename: ./debfiles/com.lizynz.vkshortcuts_8.4_iphoneos-arm.deb
-Size: 64534
-MD5sum: 7b52252e9a65ff37867fe865774f6370
-SHA1: a39f9bd4fbb12a04ca688114446eefac96c9dce6
-SHA256: 430e6ee9767acf882e9b6d8247e770d472470937a399a454f7e86f03b3c98060
+Filename: ./debs/com.lizynz.vkshortcuts_8.4_iphoneos-arm.deb
+Size: 64522
+MD5sum: 47a5eb673219cbae1959b2c296fe297d
+SHA1: 5cdc654c3a2c724f54bfb6971d0f3fba7f79fb45
+SHA256: fbd204d9593a6f903606ef12bd7dcb73e481c14029de17baf2dc7514880fa4d3
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>
-Depiction: https://lizynz.github.io/description.html?id=com.lizynz.vkshortcuts
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkshortcuts
 Name: vkShortcuts
 

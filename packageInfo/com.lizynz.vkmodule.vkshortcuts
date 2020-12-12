@@ -1,9 +1,0 @@
-{
-	"name": "VKModule",
-	"desc_short": "VK module for ControlCenter",
-	"desc_long": "VK module for ControlCenter.",
-	"compatitle": "iOS 13",
-	"changelog": "<strong>1.0-2</strong><br>+ Support iOS 13.x.x;<br>",
-	"screenshot": "<div style='text-align:center;'><a href='' target='_blank'><img width=95% src=''/></a><br></div>",
-	"open": true,
-}
