@@ -1,8 +1,10 @@
-Origin: Lizynz's Repo
-Label: Lizynz's Repo
+Origin: Lizynz Repo
+Label: lizynz
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: lizynz
+Architecture: iphoneos-arm
 Components: main
-Description: Lizynz's Cydia Repository
+Description: lizynz's Tweaks
+MD5Sum:
+  16777221

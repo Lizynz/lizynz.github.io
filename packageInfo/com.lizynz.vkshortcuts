@@ -1,0 +1,9 @@
+{
+	"name": "vkShortcuts",
+	"desc_short": "Quick action for VK",
+	"desc_long": "Quickly navigate to the desired section VK.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>8.4</strong><br>- Исправлены иконки для темной темы, теперь они меняются сразу;<br>- Удалено много лишнего, улучшен код, уменьшен размер;<br><strong>8.3</strong><br>- Исправлено описание твика на корректное;<br>",
+	"screenshot": "<div style='text-align:center;'><a href='' target='_blank'><img width=95% src=''/></a><br></div>",
+	"open": true,
+}
