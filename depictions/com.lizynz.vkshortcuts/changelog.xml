@@ -1,9 +1,7 @@
 <changelog>
 	<changes>
-		<version>8.4</version>
-		<change>- Исправлены иконки для темной темы, теперь они меняются сразу
-- Удалено много лишнего, улучшен код, уменьшен размер
-- Удален шорткат клипы</change>
+		<version>9.0</version>
+		<change>+ Поддержка iOS 14.x</change>
 	</changes>
 	<changes>
 		<version>8.3</version>

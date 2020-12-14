@@ -32,19 +32,19 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.drugvokrugvip
 Name: DrugVokrug VIP
 
 Package: com.lizynz.foldercolor
-Version: 2.0-3
+Version: 2.0-5
 Architecture: iphoneos-arm
 Maintainer: Lizynz
-Depends: mobilesubstrate, firmware(>=13.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.lizynz.foldercolor_2.0-3_iphoneos-arm.deb
-Size: 33994
-MD5sum: af68cd941c3a8e3d01942d94bb32b8d9
-SHA1: 51abd127fd176eeab50328ecf99591d88263c31b
-SHA256: deea73b1caa2f11d180fbdc2cba3173d876930b26bb42c70f39127a76c08503c
+Installed-Size: 376
+Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
+Filename: ./debs/com.lizynz.foldercolor_2.0-5_iphoneos-arm.deb
+Size: 28020
+MD5sum: 31635fc01898bebff409504ae7d19893
+SHA1: c04919e508e80b8502bcc0214648c221d464d5b3
+SHA256: 4dc653679de6acc03859b4e492693a397b61a85f28653cd886c78bcbd84e9936
 Section: Tweaks
 Description: Customize your folders.
 Author: Lizynz
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
 Name: FolderColor
 
 Package: com.lizynz.vkmodule
@@ -65,17 +65,17 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
-Version: 8.4
+Version: 9.0
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 472
+Installed-Size: 536
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts_8.4_iphoneos-arm.deb
-Size: 64522
-MD5sum: 47a5eb673219cbae1959b2c296fe297d
-SHA1: 5cdc654c3a2c724f54bfb6971d0f3fba7f79fb45
-SHA256: fbd204d9593a6f903606ef12bd7dcb73e481c14029de17baf2dc7514880fa4d3
+Filename: ./debs/com.lizynz.vkshortcuts_9.0_iphoneos-arm.deb
+Size: 95254
+MD5sum: ea69622a939b383a1ba9ebf62a4a44a4
+SHA1: 3738fdcb358d0cd3173c2f07d8f7e64d6ac27924
+SHA256: 68c992b9ec7defc543ed215482f337b87f0a82a4d5a399e3917c89231b200cb1
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>
