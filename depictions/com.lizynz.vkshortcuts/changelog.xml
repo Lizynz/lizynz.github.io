@@ -1,7 +1,11 @@
 <changelog>
 	<changes>
+		<version>9.1</version>
+		<change>+ Добавлен ярлык Объявления</change>
+	</changes>
+	<changes>
 		<version>9.0</version>
-		<change>+ Поддержка iOS 14.x</change>
+		<change>+ Поддержка iOS 14.xДобавлен ярлык Объявления</change>
 	</changes>
 	<changes>
 		<version>8.3</version>
