@@ -49,20 +49,20 @@ Author: Lizynz
 Name: FolderColor
 
 Package: com.lizynz.vkmodule
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: Lizynz
-Installed-Size: 216
+Installed-Size: 220
 Depends: mobilesubstrate, firmware(>=13.0), com.opa334.ccsupport
-Filename: ./debs/com.lizynz.vkmodule_1.0-2_iphoneos-arm.deb
-Size: 33142
-MD5sum: e3b84c915fdd88545afca8749cc79424
-SHA1: 8f3ed983a114476e850892b6c5f6e514e0401af2
-SHA256: be1f6c86f9d31f120cacb6a265287bb05fbc8702b5fa2197ec21de950717b18e
+Filename: ./debs/com.lizynz.vkmodule_1.0-3_iphoneos-arm.deb
+Size: 32548
+MD5sum: 2c42849612101e9d71ccc613a76dc3af
+SHA1: 068020782a322f91b5becbe8ed43326695470a46
+SHA256: 58ba58efd14a06a4bb76104919d3f49bcd09bdd85b70cc8fcd5de78031e7d0d4
 Section: Tweaks
 Description: VK module for ControlCenter
 Author: Lizynz
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
+Depiction: https://lizynz.github.io/description.html?id=com.lizynz.vkmodule
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
