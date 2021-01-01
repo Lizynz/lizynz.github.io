@@ -1,11 +1,19 @@
 <changelog>
 	<changes>
+		<version>9.2</version>
+		<change>Иконки закладки и понравилось теперь не такие объёмные</change>
+                <change>Исправлен баг, когда при смене тёмной/светлой темы иконки не менялись</change>
+                <change>Небольшие изменения в настройках</change>
+                <change>Улучшен код, удалено много лишнего</change>
+	</changes>
+	<changes>
 		<version>9.1</version>
-		<change>+ Добавлен ярлык Объявления</change>
+		<change>Добавлена ссылка на Объявления</change>
 	</changes>
 	<changes>
 		<version>9.0</version>
-		<change>+ Поддержка iOS 14.x</change>
+		<change>Поддержка iOS 14.x</change>
+                <change>SDK 14.2</change>
 	</changes>
 	<changes>
 		<version>8.3</version>
@@ -13,14 +21,13 @@
 	</changes>
 	<changes>
 		<version>8.2</version>
-		<change>Поддержка последней версии VK / Исправлен шорткат Подкасты / SDK 13.7</change>
-	</changes>
-	<changes>
-		<version>8.1</version>
-		<change>Добавлен шорткат клипы</change>
+		<change>Поддержка последней версии ВК</change>
+                <change>Исправлена ссылка на подкасты</change>
+                <change>SDK 13.7</change>
 	</changes>
 	<changes>
 		<version>8.0</version>
-		<change>Поддержка тёмной темы iOS 13 / Доступно три языка (Английский, Русский и Украинский)</change>
+		<change>Поддержка тёмной темы iOS 13</change>
+                <change>Доступно три языка (Английский, Русский и Украинский)</change>
 	</changes>
 </changelog>

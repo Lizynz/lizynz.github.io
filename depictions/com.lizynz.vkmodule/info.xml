@@ -25,7 +25,9 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Support iOS 14.x</change>
+		<change>Поддержка iOS 14.x</change>
+                <change>Небольшие улучшения</change>
+                <change>Исходный код теперь доступен на GitHub</change>
 	</changelog>
 	<links>
                 <link>

@@ -1,6 +1,8 @@
 <changelog>
 	<changes>
 		<version>1.0-3</version>
-		<change>Support iOS 14.x</change>
+		<change>Поддержка iOS 14.x</change>
+                <change>Небольшие улучшения</change>
+                <change>Исходный код теперь доступен на GitHub</change>
 	</changes>
 </changelog>
