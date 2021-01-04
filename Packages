@@ -66,17 +66,17 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
 Name: VKModule
 
 Package: com.lizynz.vkshortcuts
-Version: 9.2
+Version: 9.3
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 484
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts_9.2_iphoneos-arm.deb
-Size: 75816
-MD5sum: 17eb6c6d2cc9b2b2ed4ed1adc0abb9cd
-SHA1: 1c70260f687ee48085ca0f0669c335aae3fab506
-SHA256: 6340b3d9f6bae05301ed7e73fec71e9dd7c446809a438131f07d644747d0c7c1
+Filename: ./debs/com.lizynz.vkshortcuts_9.3_iphoneos-arm.deb
+Size: 75792
+MD5sum: f6d8737cdb512510d6e8cb0da0ab9a97
+SHA1: e3c85f4dc46cd66ebac0603fc8f6cd7f43259370
+SHA256: 63916273d9f44ecf05d6394ba6a2fb28f16a932794ae121b8805ecaad2628656
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>

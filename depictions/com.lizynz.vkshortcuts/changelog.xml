@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>9.2</version>
+		<version>9.3</version>
 		<change>Иконки закладки и понравилось теперь не такие объёмные</change>
                 <change>Исправлен баг, когда при смене тёмной/светлой темы иконки не менялись</change>
                 <change>Небольшие изменения в настройках</change>
