@@ -1,19 +1,19 @@
-Package: com.lizynz.betternetfreepremium
-Version: 1.0.1-5
+Package: com.hidestories.lizynz
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.lizynz.betternetfreepremium_1.0.1-5_iphoneos-arm.deb
-Size: 3254
-MD5sum: 565dfdd10dec7f3e3c5627e0ab837ad5
-SHA1: 1b4a10edc1699c6f853e49658558a96cc7581ea7
-SHA256: c3fe69bd7531f1e51d2f6f9830c70c1e63f9e8e8d33d8929c4297558be39eb08
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hidestories.lizynz_1.0_iphoneos-arm.deb
+Size: 3592
+MD5sum: f7c26b56ba4901d0a05ffbdaf5d56475
+SHA1: 3b6e650db95562acee0f98e27522e40b1a35f518
+SHA256: a3614947e0e7d33bcc7c9278cab08874203eb394357f4fee1ac09a2c647415c9
 Section: Tweaks
-Description: Betternet Premium for 5.7.1
+Description: Скрывает баннер "истории" с новостной ленты
 Author: Lizynz
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.betternetfreepremium
-Name: Betternet Free Premium
+Depiction: https://lizynz.github.io/depictions/?p=com.hidestories.lizynz
+Name: Hide Stories
 
 Package: com.lizynz.drugvokrugvip
 Version: 1.0.1
