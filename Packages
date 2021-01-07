@@ -1,20 +1,3 @@
-Package: com.hidestories.lizynz
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Lizynz
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hidestories.lizynz_1.0_iphoneos-arm.deb
-Size: 3592
-MD5sum: f7c26b56ba4901d0a05ffbdaf5d56475
-SHA1: 3b6e650db95562acee0f98e27522e40b1a35f518
-SHA256: a3614947e0e7d33bcc7c9278cab08874203eb394357f4fee1ac09a2c647415c9
-Section: Tweaks
-Description: Скрывает баннер "истории" с новостной ленты
-Author: Lizynz
-Depiction: https://lizynz.github.io/depictions/?p=com.hidestories.lizynz
-Name: Hide Stories
-
 Package: com.lizynz.drugvokrugvip
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -47,6 +30,23 @@ Section: Tweaks
 Description: Customize your folders.
 Author: Lizynz
 Name: FolderColor
+
+Package: com.lizynz.hidestories
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lizynz.hidestories_1.0_iphoneos-arm.deb
+Size: 3598
+MD5sum: b9694594a581a6e532949e475c94535b
+SHA1: 57f30bc630df21c60fa1ffceff3dc9dffa70348f
+SHA256: e2568359587428a312334edc648d17930a2ef3d3266d3799796c7af16bddbae0
+Section: Tweaks
+Description: Скрывает баннер "истории" с новостной ленты
+Author: Lizynz
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.hidestories
+Name: Hide Stories
 
 Package: com.lizynz.vkmodule
 Version: 1.0-3
