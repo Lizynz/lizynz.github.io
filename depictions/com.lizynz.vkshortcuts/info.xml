@@ -11,7 +11,8 @@
     <dependencies></dependencies>
 	<shortDescription>Quick action for VK</shortDescription>
 	<descriptionlist>
-		<description>Quickly navigate to the desired section VK</description>
+		<description>En: Quickly go to the desired VKontakte section using URL-scheme
+Ru: Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок</description>
 <!--		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
