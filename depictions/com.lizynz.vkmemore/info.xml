@@ -1,6 +1,6 @@
 <package>
-	<id>com.lizynz.hidestories</id>
-	<name>HideStories</name>
+	<id>com.lizynz.vkmemore</id>
+	<name>VKMeMore</name>
     <version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,9 +9,9 @@
 		</firmware>
 	</compatibility>
     <dependencies></dependencies>
-	<shortDescription>Скрывает баннер "истории" с новостной ленты.</shortDescription>
+	<shortDescription>Quick action for VK.me</shortDescription>
 	<descriptionlist>
-		<description>Скрывает баннер "истории" с новостной ленты.</description>
+		<description>Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), может это не сильно актуально для этого приложения, но иметь такую возможность хорошо. На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код.</description>
 <!--		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
@@ -21,7 +21,7 @@
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>HS1.jpg</image>
+			<image>vkme.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>

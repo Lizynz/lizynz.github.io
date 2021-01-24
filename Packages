@@ -31,22 +31,23 @@ Description: Customize your folders.
 Author: Lizynz
 Name: FolderColor
 
-Package: com.lizynz.hidestories
+Package: com.lizynz.vkmemore
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Lizynz
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.lizynz.hidestories_1.0_iphoneos-arm.deb
-Size: 3598
-MD5sum: b9694594a581a6e532949e475c94535b
-SHA1: 57f30bc630df21c60fa1ffceff3dc9dffa70348f
-SHA256: e2568359587428a312334edc648d17930a2ef3d3266d3799796c7af16bddbae0
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 192
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.lizynz.vkmemore_1.0_iphoneos-arm.deb
+Size: 10258
+MD5sum: 26c9c71678c5509e63e78e4049df4ea1
+SHA1: 18011a6fe60ffff21d053859f8dca6e1363872b8
+SHA256: ccde7c54ffe17ce5dfc0349b091878c59c4a6ea77f59b34173bb8739bf08b6c9
 Section: Tweaks
-Description: Скрывает баннер "истории" с новостной ленты
-Author: Lizynz
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.hidestories
-Name: Hide Stories
+Description: Quick action for VK.me
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmemore
+Name: VKMeMore
 
 Package: com.lizynz.vkmodule
 Version: 1.0-3
