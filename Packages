@@ -22,15 +22,16 @@ Installed-Size: 192
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
 Filename: ./debs/com.lizynz.vkmemore_1.0_iphoneos-arm.deb
-Size: 10258
-MD5sum: 26c9c71678c5509e63e78e4049df4ea1
-SHA1: 18011a6fe60ffff21d053859f8dca6e1363872b8
-SHA256: ccde7c54ffe17ce5dfc0349b091878c59c4a6ea77f59b34173bb8739bf08b6c9
+Size: 10256
+MD5sum: 38963c0ba49463ae7b53785fb823826b
+SHA1: 07bd5e58c4480bfab0fd68bbfba58b31ce2f7831
+SHA256: 287f1c6f83a0157343716c392e5e13df02228f6cee82f557ee1ba6221f0da733
 Section: Tweaks
 Description: Quick action for VK.me
 Author: Lizynz <lizynz@ya.ru>
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmemore
 Name: VKMeMore
+Sileodepiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmemore/vkmemore.json
 
 Package: com.lizynz.vkmodule
 Version: 1.0-3
