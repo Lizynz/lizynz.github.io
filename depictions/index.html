@@ -14,23 +14,23 @@
    <script type="text/javascript" src="js/content-blocks-index.js"></script>
   <script type="text/javascript">
 
-	bundleid = $.QueryString['p'];
+    bundleid = $.QueryString['p'];
 
-	var contentBlocks = getContentBlocks();
+    var contentBlocks = getContentBlocks();
 
     $( document ).ready(function() {
-		//return;
-		populateContentBlocks(
-			(bundleid+"/info.xml"),
-			contentBlocks,
-			() => {
+        //return;
+        populateContentBlocks(
+            (bundleid+"/info.xml"),
+            contentBlocks,
+            () => {
                 $("#packageError").show();
-				$("#packageInformation").hide();				
-			},
-			(xml) => {
-				document.title = $(xml).find("package>name").text();
-			}
-		)
+                $("#packageInformation").hide();
+            },
+            (xml) => {
+                document.title = $(xml).find("package>name").text();
+            }
+        )
 
     }); // ready
   </script>
@@ -38,51 +38,51 @@
 <body>
 <br />
 
-<div id="packageInformation">
+<div id="packageInformation" style="font-size:14px">
 
-	<div id="packageHeader" class="container" style="display:block">
-		<div class="jumbotron">
-			<h1 id="packageName">&nbsp;</h1>
-			<p id="packageShortDesc">&nbsp;</p>
-		</div>
-	</div>
+    <div id="packageHeader" class="container" style="display:block" align="center">
+        <div class="jumbotron">
+            <h1 id="packageName">&nbsp;</h1>
+            <p id="packageShortDesc">&nbsp;</p>
+        </div>
+    </div>
 
-	<div class="container">
-	  <div id="compatibilityCheck" class="alert">&nbsp;</div>
-	</div>
+    <div class="container" align="center">
+      <div id="compatibilityCheck" class="alert">&nbsp;</div>
+    </div>
 
-	<div class="container">
-		<h5>Description</h5>
-		<ul id="descriptionList" class="list-group">
-			<li id="screenshotsLink" class="link-item list-group-item">Screenshots</li>
-		</ul>
-	</div>
+    <div class="container">
+        <h5>Description</h5>
+        <ul id="descriptionList" class="list-group">
+            <li id="screenshotsLink" class="link-item list-group-item">Screenshots</li>
+        </ul>
+    </div>
 
-	<div class="container">
-		<h5>In this version <span id="versionBadge" class="badge" /></h5>
-		<ul id="changesList" class="list-group">
-			<li id="changelogLink"  class="link-item list-group-item">Full Changelog</li>
-		</ul>
-	</div>
-	<div class="container" id="dependenciesContainer">
-		<h5>Dependencies</h5>
-		<ul id="dependencyList" class="list-group">
-		</ul>
-	</div>
+    <div class="container">
+        <h5>Version <span id="versionBadge" class="badge" /></h5>
+        <ul id="changesList" class="list-group">
+            <li id="changelogLink"  class="link-item list-group-item">Full Changelog</li>
+        </ul>
+    </div>
+    <div class="container" id="dependenciesContainer">
+        <h5>Dependencies</h5>
+        <ul id="dependencyList" class="list-group">
+        </ul>
+    </div>
 
-	<div class="container" id="externalLinksContainer">
-		<h5>Links</h5>
-		<ul id="externalLinksList" class="list-group">
-		</ul>
-	</div>
+    <div class="container" id="externalLinksContainer">
+        <h5>Links</h5>
+        <ul id="externalLinksList" class="list-group">
+        </ul>
+    </div>
 
 </div>
 <div id="packageError" style="display:none">
-	<div class="container">
-	  <div class="alert alert-danger">
-		<strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository.
-	  </div>
-	</div>
+    <div class="container">
+      <div class="alert alert-danger">
+        <strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository.
+      </div>
+    </div>
 </div>
 
 <script type="text/javascript">
@@ -118,9 +118,9 @@
     $( document ).ready(function() {
         $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
             success : function(xml){
-				      data_loader_engine(repoContents,xml);
+                      data_loader_engine(repoContents,xml);
               setAnchorTargets();
-			      },
+                  },
             error: function() {
               $("#contactInfo").hide();
               setAnchorTargets();
@@ -132,12 +132,12 @@
 
 </script>
 
-<div id="contactInfo">
-	<div class="container">
-		<h5>Contact</h5>
-		<ul class="list-group" id="repoFooterLinks">
-		</ul>
-	</div>
+<div id="contactInfo" style="font-size:14px">
+    <div class="container">
+        <h5>Social Media</h5>
+        <ul class="list-group" id="repoFooterLinks">
+        </ul>
+    </div>
 </div>
 
 
