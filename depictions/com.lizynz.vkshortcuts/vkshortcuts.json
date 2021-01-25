@@ -10,7 +10,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme.jpg"
+                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/screenshots/vkS1.jpg"
                         }
                     ]
                 },
@@ -25,20 +25,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), может это не сильно актуально для этого приложения, но иметь такую возможность хорошо. На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код."
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Latest Changes",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Релиз",
-                    "useSpacing": false
+                    "markdown": "Quickly go to the desired VKontakte section using URL-scheme. / Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок."
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -50,17 +37,17 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0",
+                    "text": "9.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "24.01.2021",
+                    "text": "04.01.2021",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "24.01.2021",
+                    "text": "28.03.2020",
                     "title": "Released"
                 },
                 {
