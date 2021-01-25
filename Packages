@@ -1,18 +1,20 @@
 Package: com.lizynz.foldercolor
 Version: 2.0-5
 Architecture: iphoneos-arm
-Maintainer: Lizynz
+Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 376
 Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
 Filename: ./debs/com.lizynz.foldercolor_2.0-5_iphoneos-arm.deb
-Size: 28020
-MD5sum: 31635fc01898bebff409504ae7d19893
-SHA1: c04919e508e80b8502bcc0214648c221d464d5b3
-SHA256: 4dc653679de6acc03859b4e492693a397b61a85f28653cd886c78bcbd84e9936
+Size: 28086
+MD5sum: 31d6624aaaef3ee677607c49001a46bb
+SHA1: ed2012cd0cab5964284267fe07d843ac86f0b734
+SHA256: b25f19397340629b8646f07f09bda068baf6e85b4a7beb23f065574053f997c3
 Section: Tweaks
 Description: Customize your folders.
-Author: Lizynz
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
 Name: FolderColor
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
 Package: com.lizynz.vkmemore
 Version: 1.0
