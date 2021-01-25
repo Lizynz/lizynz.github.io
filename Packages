@@ -40,15 +40,16 @@ Maintainer: Lizynz
 Installed-Size: 220
 Depends: mobilesubstrate, firmware(>=13.0), com.opa334.ccsupport
 Filename: ./debs/com.lizynz.vkmodule_1.0-3_iphoneos-arm.deb
-Size: 32548
-MD5sum: b0dfe5a293b6357d5ede0393021e2528
-SHA1: 0ea61e7e88f92b523135c20dcc40d66277c772ed
-SHA256: 902474d16bda87d2eb1e1bb22f51eed6a9ac986b16a47dc720efb1066fcfb2f8
+Size: 32566
+MD5sum: b7962bfbef76cbaa831860c26f64c990
+SHA1: 0eead238922bb2e87848e77cef074098ce075648
+SHA256: 6954cf631a1fbce6a3db9bed421215292f8803b26351201f4d5cfcb731f5c23b
 Section: Tweaks
 Description: VK module for ControlCenter
 Author: Lizynz
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
 Name: VKModule
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkmodule/vkmodule.json
 
 Package: com.lizynz.vkshortcuts
 Version: 9.3
