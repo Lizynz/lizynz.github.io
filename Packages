@@ -1,20 +1,3 @@
-Package: com.lizynz.drugvokrugvip
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Lizynz
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.lizynz.drugvokrugvip_1.0.1_iphoneos-arm.deb
-Size: 3388
-MD5sum: 362e6fb2932ebb42916e17336cf249ae
-SHA1: dd7cb8ea44581100710e66a6f4f47f3dd98955c7
-SHA256: 28bbbdb5eff5211ca4abce7ef32aa05244c1daa6d19f39099fc66f8856d4d852
-Section: Tweaks
-Description: Enable VIP for Drug Vokrug
-Author: Lizynz
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.drugvokrugvip
-Name: DrugVokrug VIP
-
 Package: com.lizynz.foldercolor
 Version: 2.0-5
 Architecture: iphoneos-arm
