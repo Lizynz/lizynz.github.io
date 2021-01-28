@@ -17,19 +17,19 @@ Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
 Package: com.lizynz.vkmemore
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 192
+Installed-Size: 160
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkmemore_1.0_iphoneos-arm.deb
-Size: 10276
-MD5sum: 606301c2447cbf1d6c82f316e0f37ba3
-SHA1: 499a3bf4019e7486c5608f9091685c3fa713451d
-SHA256: f29bde8f4ccdda77cfe38075f9121c15c29807bb94574b5fd58a944b198cc21c
+Filename: ./debs/com.lizynz.vkmemore_1.0.1_iphoneos-arm.deb
+Size: 10446
+MD5sum: 12d0ee19fb7cdc3df9fa43b47c052dc8
+SHA1: e8fa4f0ba078f4e9142f1f5ad1f96a0bd2b17809
+SHA256: 524f08996e6f34260a756e6f8c20c8fda777cff5ac3bdcbf2b7b75a0701c9ead
 Section: Tweaks
-Description: Quick action for VK.me
+Description: Add quick action for VK.me and a few more features
 Author: Lizynz <lizynz@ya.ru>
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmemore
 Name: VKMeMore

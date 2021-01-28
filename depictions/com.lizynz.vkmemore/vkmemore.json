@@ -11,6 +11,10 @@
                         {
                             "accessibilityText": "Screenshot0",
                             "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme1.jpg"
                         }
                     ]
                 },
@@ -25,7 +29,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), может это не сильно актуально для этого приложения, но иметь такую возможность хорошо. На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код."
+                    "markdown": "Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), а так же скрывает крупный заголовок (см.скрин №2). На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код."
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -37,8 +41,17 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Релиз",
+                    "markdown": "- Скрывает крупный заголовок (см.скрин №2)",
                     "useSpacing": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Full Changelog",
+                    "action": "https://lizynz.github.io/depictions/changelog.html?p=com.lizynz.vkmemore"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -50,12 +63,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0",
+                    "text": "1.0.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "24.01.2021",
+                    "text": "28.01.2021",
                     "title": "Last Time Updated"
                 },
                 {

@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>- Скрывает крупный заголовок (см.скрин №2)</change>
+                <change>- Убран лимит на прослушивание музыки</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Релиз</change>
 	</changes>
