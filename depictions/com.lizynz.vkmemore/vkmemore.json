@@ -63,12 +63,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0.2",
+                    "text": "1.0.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "29.01.2021",
+                    "text": "03.02.2021",
                     "title": "Last Time Updated"
                 },
                 {
