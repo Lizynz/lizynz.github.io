@@ -18,7 +18,12 @@
 		]]>
 	</description> -->
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Release/Релиз</change>
 	</changelog>
