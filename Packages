@@ -1,18 +1,20 @@
 Package: com.lizynz.calendarspro
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Lizynz
+Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.lizynz.calendarspro_1.0_iphoneos-arm.deb
-Size: 3752
-MD5sum: 344547c0663b4aa4933b64494284835e
-SHA1: 861b90c360089d8424cb892f52d061efa41c5e6a
-SHA256: 80dfe62d2267d93124e3950a389bacde5a82048c3a571804f2ce3921bbb3e28d
+Size: 3810
+MD5sum: 8a9c6bda2c19b1859d58f735d4507819
+SHA1: 614849675210d90bf29af702d5342160302305b8
+SHA256: 96cf26e4973a212b733b9f3b4a45f726c0265c6cf6f9bb2a7189669eed510194
 Section: Tweaks
 Description: Calendars: Planner & Reminders activate PRO!!!
-Author: Lizynz
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.calendarspro
 Name: Calendars Pro
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.calendarspro/calendarspro.json
 
 Package: com.lizynz.foldercolor
 Version: 2.0-5
