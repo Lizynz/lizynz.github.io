@@ -27,7 +27,35 @@
                 "class": "DepictionMarkdownView",
                 "markdown": "<p>Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), а так же скрывает крупный заголовок (см.скрин №2).</p> <p>На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код.</p>",
                 "useSpacing": true,
-                "useRawFormat": true}],
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone & iPod touch"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "15.08.2021",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "24.01.2021",
+                "title": "Released"
+            }],
                "xPadding": 10
             },
             {
