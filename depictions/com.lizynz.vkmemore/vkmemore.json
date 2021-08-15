@@ -2,11 +2,6 @@
     "class": "DepictionTabView",
     "tabs": [
             {
-                "class": "DepictionSubheaderView",
-                "useMargins": true,
-                "title": "Compatible with iOS 13.x - 14.x"
-            },
-            {
                "class": "DepictionStackView",
                "tabname": "Details",
                "views":[
