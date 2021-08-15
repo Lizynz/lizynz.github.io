@@ -16,6 +16,10 @@
                             "accessibilityText": "Screenshot1",
                             "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme1.jpg"
                         }
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme2.jpg"
+                        }
                     ]
                 },
                 {
@@ -41,7 +45,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Скрывает крупный заголовок (см.скрин №2)",
+                    "markdown": "- Режим картинка в картинке (бета)",
                     "useSpacing": false
                 },
                 {
@@ -63,12 +67,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0.3",
+                    "text": "1.0.4",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "03.02.2021",
+                    "text": "15.08.2021",
                     "title": "Last Time Updated"
                 },
                 {
