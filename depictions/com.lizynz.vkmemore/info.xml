@@ -9,9 +9,9 @@
 		</firmware>
 	</compatibility>
     <dependencies></dependencies>
-	<shortDescription>Add quick action for VK.me and a few more features</shortDescription>
+	<shortDescription>Add quick action for VK Me and a few more features</shortDescription>
 	<descriptionlist>
-        <description>Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), а так же скрывает крупный заголовок (см.скрин №2). На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код.</description>
+        <description>Твик добавляет два быстрых ярлыка для приложения VK Me, а так же скрывает крупный заголовок (см.скриншоты). На первый взгляд VK Me просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK Me не удалят код.</description>
 <!--		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.

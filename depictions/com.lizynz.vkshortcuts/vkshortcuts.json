@@ -1,85 +1,135 @@
 {
     "class": "DepictionTabView",
-    "tabs": [{
-            "class": "DepictionStackView",
-            "tabname": "Details",
-            "views": [{
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/screenshots/vkS1.jpg"
-                        }
-                    ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Description",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Quickly go to the desired VKontakte section using URL-scheme. / Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок."
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Informations",
-                    "useBoldText": true
-                },
-                {
-                    "title": "Current Version",
-                    "text": "9.3",
-                    "class": "DepictionTableTextView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "04.01.2021",
-                    "title": "Last Time Updated"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "28.03.2020",
-                    "title": "Released"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Price",
-                    "text": "Free"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Compatibility",
-                    "text": "iOS 13 & 14"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Devices",
-                    "text": "iPhone & iPod touch"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Developer",
-                    "text": "Lizynz"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Lizynz1 Twitter",
-                    "action": "https://twitter.com/Lizynz1"
-                }
-            ]
-        }
-    ],
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                "accessibilityText": "Screenshot0",
+                "url": "https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/screenshots/vkS1.jpg"
+            }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Compatibility iOS 13.x - 14.x</p> <p>En: Quickly go to the desired VKontakte section using URL-scheme.</p> <p>Ru: Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок.</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone & iPod touch"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "15.08.2021",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "28.03.2020",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 9.4"},
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Поправлен код\n- Теперь с открытым исходным кодом\n"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 9.3"
+                
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Иконки закладки и понравилось теперь не такие объёмные\n- Исправлен баг, когда при смене тёмной/светлой темы иконки не менялись (thanks opa334)\n \n- Небольшие изменения в настройках\n \n- Улучшен код, удалено много лишнего\n"
+
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 9.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Добавлена ссылка на Объявления"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 9.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Поддержка iOS 14.x / SDK 14.2"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 8.3"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Исправлено описание твика на корректное"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 8.2"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Поддержка последней версии ВКонтакте\n- Исправлена ссылка на подкасты\n \n- SDK 13.7\n"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 8.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Поддержка тёмной темы iOS 13\n- Доступно три языка (Английский, Русский и Украинский)\n"
+            }
+         ]
+      }
+   ],
 }
