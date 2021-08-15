@@ -1,115 +1,78 @@
 {
     "class": "DepictionTabView",
-    "tabs": [{
-            "class": "DepictionStackView",
-            "tabname": "Details",
-            "views": [{
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme.jpg"
-                        },
-                        {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme1.jpg"
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme2.jpg"
-                        }
-                    ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Description",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), а так же скрывает крупный заголовок (см.скрин №2). На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код."
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Latest Changes",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Режим картинка в картинке (бета)",
-                    "useSpacing": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Full Changelog",
-                    "action": "https://lizynz.github.io/depictions/changelog.html?p=com.lizynz.vkmemore"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "Informations",
-                    "useBoldText": true
-                },
-                {
-                    "title": "Current Version",
-                    "text": "1.0.4",
-                    "class": "DepictionTableTextView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "15.08.2021",
-                    "title": "Last Time Updated"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "24.01.2021",
-                    "title": "Released"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Price",
-                    "text": "Free"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Compatibility",
-                    "text": "iOS 13 & 14"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Devices",
-                    "text": "iPhone & iPod touch"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Developer",
-                    "text": "Lizynz"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Lizynz1 Twitter",
-                    "action": "https://twitter.com/Lizynz1"
-                }
-            ]
-        }
-    ],
+    "tabs": [
+            {
+                "class": "DepictionSubheaderView",
+                "useMargins": true,
+                "title": "Compatible with iOS 13.x - 14.x"
+            },
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                "accessibilityText": "Screenshot0",
+                "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme.jpg"
+            },
+            {
+                "accessibilityText": "Screenshot1",
+                "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme1.jpg"
+            },
+            {
+                "accessibilityText": "Screenshot2",
+                 "url": "https://lizynz.github.io/depictions/com.lizynz.vkmemore/screenshots/vkme2.jpg"
+            }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Твик добавляет два быстрых ярлыка для приложения VK.me (Новая запись и Добавить фото), а так же скрывает крупный заголовок (см.скрин №2).</p> <p>На первый взгляд VK.me это просто мессенджер для общения, но внутри там всё тот же VKClient. Твик будет актуален до тех пор, пока из VK.me не удалят лишний код.</p>",
+                "useSpacing": true,
+                "useRawFormat": true}],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.4"},
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Режим картинка в картинке (бета)\n- Возможность загружать большие документы\n"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.2"
+                
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Скрывает крупный заголовок (см.скрин №2)\n-Убран лимит на прослушивание музыки\n \n- Убран лимит на прослушивание музыки\n \n- Уменьшен код\n \n- Исходники доступны на GitHub!\n"
+                
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"
+                
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Релиз"
+                
+            }
+         ]
+      }
+   ],
 }
