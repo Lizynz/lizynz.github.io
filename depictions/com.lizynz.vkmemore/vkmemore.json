@@ -6,6 +6,11 @@
                "tabname": "Details",
                "views":[
             {
+                "class": "DepictionSubheaderView",
+                "useMargins": true,
+                "title": "Compatibility iOS 13.x - 14.x"
+            },
+            {
                 "itemCornerRadius": 6,
                 "class": "DepictionScreenshotsView",
                 "itemSize": "{160, 275.41333333333336}",
@@ -31,6 +36,34 @@
                "xPadding": 10
             },
             {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone & iPod touch"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "15.08.2021",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "24.01.2021",
+                "title": "Released"
+            },
+            {
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
@@ -51,7 +84,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "- Скрывает крупный заголовок (см.скрин №2)\n-Убран лимит на прослушивание музыки\n \n- Убран лимит на прослушивание музыки\n \n- Уменьшен код\n \n- Исходники доступны на GitHub!\n"
+                "markdown": "- Скрывает крупный заголовок (см.скрин №2) \n- Убран лимит на прослушивание музыки\n \n- Уменьшен код\n \n- Исходники доступны на GitHub!\n"
                 
             },
             {
