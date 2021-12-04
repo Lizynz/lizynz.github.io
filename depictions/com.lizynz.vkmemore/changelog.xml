@@ -1,15 +1,19 @@
 <changelog>
     <changes>
+        <version>1.0.5</version>
+        <change>- Теперь работает музыка в фоне</change>
+    </changes>
+    <changes>
         <version>1.0.4</version>
         <change>- Режим картинка в картинке (бета)</change>
-                <change>- Возможность загружать большие документы</change>
+        <change>- Возможность загружать большие документы</change>
     </changes>
 	<changes>
 		<version>1.0.2</version>
 		<change>- Скрывает крупный заголовок (см.скрин №2)</change>
-                <change>- Убран лимит на прослушивание музыки</change>
-                <change>- Уменьшен код</change>
-                <change>- Исходники доступны на GitHub!</change>
+        <change>- Убран лимит на прослушивание музыки</change>
+        <change>- Уменьшен код</change>
+        <change>- Исходники доступны на GitHub!</change>
 	</changes>
 	<changes>
 		<version>1.0</version>

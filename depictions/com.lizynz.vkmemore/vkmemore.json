@@ -48,7 +48,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "15.08.2021",
+                "text": "4.12.2021",
                 "title": "Last Time Updated"
             },
             {
@@ -62,6 +62,17 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.5"},
+            {
+                
+                "class": "DepictionMarkdownView",
+                "markdown": "- Теперь работает музыка в фоне\n"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0.4"},
