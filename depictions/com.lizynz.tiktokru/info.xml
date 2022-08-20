@@ -1,0 +1,43 @@
+<package>
+	<id>com.lizynz.tiktokru</id>
+	<name>TikTokRu</name>
+    <version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>Настройка для TikTok с переводом на русский язык</shortDescription>
+	<descriptionlist>
+        <description>Настройка для TikTok с переводом на русский язык</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Релиз</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lizynz1</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/u/Lizynz</name>
+			<url>https://www.reddit.com/u/lizynz</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
+

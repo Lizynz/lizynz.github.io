@@ -34,6 +34,22 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
 Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
+Package: com.lizynz.tiktokru
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Lizynz
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.lizynz.tiktokru_1.1_iphoneos-arm.deb
+Size: 1443292
+MD5sum: e58fa3ddce58af980bb472f866294557
+SHA1: 7ed57db02c6b1bc340ae4a61a64edfc1b2552562
+SHA256: 8a1f497f849e8c155e7676767bfe058686ddd8e049add72344c41736d85076f3
+Section: Tweaks
+Description: Настройка для TikTok с переводом на русский язык
+Author: Lizynz
+Name: TikTokRu
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.tiktokru/tiktokru.json
+
 Package: com.lizynz.vkmemore
 Version: 1.0.5
 Architecture: iphoneos-arm
