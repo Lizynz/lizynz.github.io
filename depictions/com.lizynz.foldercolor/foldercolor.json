@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Full support iOS 14.x",
+                    "markdown": "- Full support iOS 15.x",
                     "useSpacing": false
                 },
                 {
@@ -54,12 +54,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "2.0-5",
+                    "text": "2.0-6",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.12.2020",
+                    "text": "21.12.2022",
                     "title": "Last Time Updated"
                 },
                 {
@@ -75,7 +75,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 13 & 14"
+                    "text": "iOS 13 & 15"
                 },
                 {
                     "class": "DepictionTableTextView",

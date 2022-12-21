@@ -17,16 +17,16 @@ Name: Calendars Pro
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.calendarspro/calendarspro.json
 
 Package: com.lizynz.foldercolor
-Version: 2.0-5
+Version: 2.0-6
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 376
 Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.lizynz.foldercolor_2.0-5_iphoneos-arm.deb
-Size: 28086
-MD5sum: 31d6624aaaef3ee677607c49001a46bb
-SHA1: ed2012cd0cab5964284267fe07d843ac86f0b734
-SHA256: b25f19397340629b8646f07f09bda068baf6e85b4a7beb23f065574053f997c3
+Filename: ./debs/com.lizynz.foldercolor_2.0-6_iphoneos-arm.deb
+Size: 26980
+MD5sum: 6e24c43c00ee18f19ffedb384cae4c9a
+SHA1: fdc6e820bf46fdc7a61f33ff167b49df8cdfec41
+SHA256: 3353449c5f7172d101345492a2a6106e26bd87c1b44895b33b579b5bd492e012
 Section: Tweaks
 Description: Customize your folders.
 Author: Lizynz <lizynz@ya.ru>
