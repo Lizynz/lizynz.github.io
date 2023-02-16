@@ -79,13 +79,14 @@ Installed-Size: 440
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
 Filename: ./debs/com.lizynz.vkshortcuts_11.0_iphoneos-arm.deb
-Size: 56390
-MD5sum: d37e03fd5265496601421c6a831f1ba4
-SHA1: 5ddf3926724ad82009deae037cbb92e977465d10
-SHA256: 9fd3bbc62ccb8f9e6c7b1dcf14d120aba8cfbb44196b3c5b6cf37d475c7e04de
+Size: 56360
+MD5sum: 1ac466a503d15153a671ddea7c286553
+SHA1: 5f160eee8196a7c4fefee96ccc267d55b4bc3cb8
+SHA256: f2dcd4cdae64ba4ab8329a58cd08f5650000b4747976d358643ba71426255be8
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkshortcuts
 Name: vkShortcuts
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/vkshortcuts.json
 
