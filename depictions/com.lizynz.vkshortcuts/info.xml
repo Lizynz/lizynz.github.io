@@ -29,8 +29,7 @@
         </screenshot>
 	</screenshots>
 	<changelog>
-		<change>Поправлен код</change>
-                <change>Теперь с открытым исходным кодом</change>
+		<change>Поддержка iOS 15.x - 16.x (palera1n)</change>
 	</changelog>
 	<links>
                 <link>

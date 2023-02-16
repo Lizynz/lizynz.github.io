@@ -17,16 +17,16 @@ Name: Calendars Pro
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.calendarspro/calendarspro.json
 
 Package: com.lizynz.foldercolor
-Version: 2.0-6
+Version: 2.0-7
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 376
-Depends: mobilesubstrate, firmware(>=9.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.lizynz.foldercolor_2.0-6_iphoneos-arm.deb
-Size: 26980
-MD5sum: 6e24c43c00ee18f19ffedb384cae4c9a
-SHA1: fdc6e820bf46fdc7a61f33ff167b49df8cdfec41
-SHA256: 3353449c5f7172d101345492a2a6106e26bd87c1b44895b33b579b5bd492e012
+Depends: mobilesubstrate, firmware(>=13.0), org.thebigboss.libcolorpicker
+Filename: ./debs/com.lizynz.foldercolor_2.0-7_iphoneos-arm.deb
+Size: 26878
+MD5sum: 210038071589bf005c7958a45a790175
+SHA1: 92d35ec90e8121f4864544aec5a24fb6a6128337
+SHA256: 3d7f88c7027eb6a159129b85c8d566725c23429ed563cf2dfd86a8802353794c
 Section: Tweaks
 Description: Customize your folders.
 Author: Lizynz <lizynz@ya.ru>
@@ -79,14 +79,13 @@ Installed-Size: 440
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: gsc.ipad
 Filename: ./debs/com.lizynz.vkshortcuts_11.0_iphoneos-arm.deb
-Size: 56360
-MD5sum: 1ac466a503d15153a671ddea7c286553
-SHA1: 5f160eee8196a7c4fefee96ccc267d55b4bc3cb8
-SHA256: f2dcd4cdae64ba4ab8329a58cd08f5650000b4747976d358643ba71426255be8
+Size: 56390
+MD5sum: d37e03fd5265496601421c6a831f1ba4
+SHA1: 5ddf3926724ad82009deae037cbb92e977465d10
+SHA256: 9fd3bbc62ccb8f9e6c7b1dcf14d120aba8cfbb44196b3c5b6cf37d475c7e04de
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkshortcuts
 Name: vkShortcuts
-Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/vkshortcuts.json
 

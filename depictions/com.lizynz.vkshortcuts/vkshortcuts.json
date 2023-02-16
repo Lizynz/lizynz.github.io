@@ -64,7 +64,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "- Поддержка iOS 15.x - 16.x"
+                "markdown": "- Поддержка iOS 15.x - 16.x (palera1n)"
             },
             {
                 "class": "DepictionSubheaderView",
