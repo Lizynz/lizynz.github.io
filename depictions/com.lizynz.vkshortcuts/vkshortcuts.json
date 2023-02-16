@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 13.x - 14.x</p> <p>En: Quickly go to the desired VKontakte section using URL-scheme.</p> <p>Ru: Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок.</p>",
+                "markdown": "<p>Compatibility iOS 13.x - 16.x</p> <p>En: Quickly go to the desired VKontakte section using URL-scheme.</p> <p>Ru: Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
