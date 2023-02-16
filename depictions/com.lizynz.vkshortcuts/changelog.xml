@@ -1,4 +1,8 @@
 <changelog>
+    <changes>
+        <version>11.0</version>
+        <change>Поддержка iOS 15.x - 16.x (palera1n)</change>
+    </changes>
 	<changes>
 		<version>9.3</version>
 		<change>Иконки закладки и понравилось теперь не такие объёмные</change>

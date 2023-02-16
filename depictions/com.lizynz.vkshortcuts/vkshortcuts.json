@@ -11,8 +11,12 @@
                 "itemSize": "{160, 275.41333333333336}",
                 "screenshots": [
             {
-                "accessibilityText": "Screenshot0",
-                "url": "https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/screenshots/vkS1.jpg"
+                        "accessibilityText": "Screenshot0",
+                        "url": "https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/screenshots/vkS1.jpg"
+            },
+            {
+                        "accessibilityText": "Screenshot1",
+                        "url": "https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/screenshots/vkS2.jpg"
             }]
             },
             {
@@ -40,7 +44,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "15.08.2021",
+                "text": "16.02.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -56,7 +60,16 @@
                 "views": [
             {
                 "class": "DepictionSubheaderView",
-                "title": "Version 9.4"},
+                "title": "Version 11.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Поддержка iOS 15.x - 16.x"
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 9.4"
+            },
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "- Поправлен код\n- Теперь с открытым исходным кодом\n"
