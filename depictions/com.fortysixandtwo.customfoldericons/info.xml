@@ -1,0 +1,43 @@
+<package>
+	<id>com.fortysixandtwo.customfoldericons</id>
+	<name>CustomFolderIcons</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>A simple no-frills custom icon and background tweak.</shortDescription>
+	<descriptionlist>
+        <description>Adds images to the folder/Добавляет изображения к папке</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Support iOS 13.x - 16.x (palera1n)</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lizynz1</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/u/Lizynz</name>
+			<url>https://www.reddit.com/u/lizynz</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
+
