@@ -1,0 +1,75 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                        "accessibilityText": "Screenshot0",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.telegaicons/screenshots/t1.jpeg"
+            },
+            {
+                        "accessibilityText": "Screenshot1",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.telegaicons/screenshots/t2.jpeg"
+            }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Compatibility iOS 11.x - 16.x</p> <p>En: Choose one of three premium icons for Telegram (open application, wait 3 seconds).</p> <p>Ru: Выберите одну из трех премиум-иконок для Telegram (откроется приложение, подождите 3 секунды).</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "All Devices"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "21.03.2023",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "21.03.2023",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Tested on iOS 15.x - 16.x (palera1n)"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            }
+         ]
+      }
+   ],
+}

@@ -52,6 +52,24 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
 Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
+Package: com.lizynz.telegaicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 176
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.lizynz.telegaicons_1.0_iphoneos-arm.deb
+Size: 6492
+MD5sum: 7c668c2aac2728bfc44920db27e5cbbe
+SHA1: f64def6ebae1f79e439e9fd28a415e782644b8d7
+SHA256: be967e4db2e183be2f10152445b28dcb20fee04f8474932aa930e8ec03847932
+Section: Tweaks
+Description: Change the telegram icon
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
+Name: Telega Icons
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
+
 Package: com.lizynz.vkmemore
 Version: 1.0.5
 Architecture: iphoneos-arm

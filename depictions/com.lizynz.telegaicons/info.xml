@@ -1,0 +1,47 @@
+<package>
+	<id>com.lizynz.telegaicons</id>
+	<name>Telega Icons</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unconformed</otherVersions>
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>Change the telegram icon</shortDescription>
+	<descriptionlist>
+		<description>Choose one of three premium icons for Telegram.</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>t1.jpg</image>
+		</screenshot>
+        <screenshot>
+            <description></description>
+            <image>t2.jpg</image>
+        </screenshot>
+	</screenshots>
+	<changelog>
+		<change>Tested on iOS 15.x - 16.x (palera1n)</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lizynz1</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/u/Lizynz</name>
+			<url>https://www.reddit.com/u/lizynz</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
+
