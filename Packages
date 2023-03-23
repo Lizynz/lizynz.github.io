@@ -70,6 +70,23 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
 Name: Telega Icons
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 
+Package: com.lizynz.telegaicons.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lizynz <lizynz@ya.ru>
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lizynz.telegaicons.rootless_1.0_iphoneos-arm64.deb
+Size: 6432
+MD5sum: 96f2f3f2a467676cb274d15f497deaa2
+SHA1: 6fbb83b3d491f19b1fee341fc7826773bb821d75
+SHA256: ee8750fb63aa4eef87c9e3040b31e2f7469444cc6a1be29e53a5f1f0201ff396
+Section: Tweaks
+Description: Change the telegram icon
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
+Name: Telega Icons
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
+
 Package: com.lizynz.vkmemore
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -119,6 +136,24 @@ Size: 56360
 MD5sum: 1ac466a503d15153a671ddea7c286553
 SHA1: 5f160eee8196a7c4fefee96ccc267d55b4bc3cb8
 SHA256: f2dcd4cdae64ba4ab8329a58cd08f5650000b4747976d358643ba71426255be8
+Section: Tweaks
+Description: Quick action for VK
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkshortcuts
+Name: vkShortcuts
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/vkshortcuts.json
+
+Package: com.lizynz.vkshortcuts.rootless
+Version: 11.0
+Architecture: iphoneos-arm64
+Maintainer: Lizynz <lizynz@ya.ru>
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: gsc.ipad
+Filename: ./debs/com.lizynz.vkshortcuts.rootless_11.0_iphoneos-arm64.deb
+Size: 55804
+MD5sum: 63e987eed0c4a0083658f4f6428d6125
+SHA1: d46963a698c2317b49aa79746671fcb20f1f7c3c
+SHA256: 0b5b131f143353a73b5c3051a7f8bc217595af982093b8b2bf4b247659fbc027
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>
