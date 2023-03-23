@@ -1,2 +1,2 @@
 # lizynz.github.io
-Cydia, Sileo and Zebra repository (support rootless)
+Cydia, Sileo and Zebra repository
