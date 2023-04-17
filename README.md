@@ -1,2 +1,2 @@
 # lizynz.github.io
-Cydia repository
+Cydia, Sileo and Zebra repository
