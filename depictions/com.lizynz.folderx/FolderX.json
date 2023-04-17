@@ -1,0 +1,83 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+                    {
+                        "accessibilityText": "Screenshot0",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F1.jpeg"
+                    },
+                    {
+                        "accessibilityText": "Screenshot1",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F2.jpeg"
+                    },
+                    {
+                                "accessibilityText": "Screenshot2",
+                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F3.jpeg"
+                    },
+                    {
+                                "accessibilityText": "Screenshot3",
+                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F4.jpeg"
+                    }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Compatibility iOS 15.x - 16.x (palera1n and Fugu15).</p> <p>En: Customize the folder to your liking. Open the folder and swipe up to open the settings menu.</p> <p>Ru: Настройте папку по своему вкусу. Откройте папку и проведите пальцем вверх, чтобы открыть меню настроек.</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone & iPod Touch"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "17.04.2023",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "17.04.2023",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Release"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            }
+         ]
+      }
+   ],
+}
