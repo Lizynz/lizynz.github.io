@@ -29,7 +29,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 15.x - 16.x (palera1n and Fugu15).</p> <p>En: Customize the folder to your liking. Open the folder and swipe up to open the settings menu.</p> <p>Ru: Настройте папку по своему вкусу. Откройте папку и проведите пальцем вверх, чтобы открыть меню настроек.</p>",
+                "markdown": "<p>Compatibility iOS 15.x - 16.x (palera1n and Fugu15).</p> <p>En: Customize the folder to your liking.</p> <p>Ru: Настройте папку по своему вкусу.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -52,7 +52,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "17.04.2023",
+                "text": "19.04.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -66,6 +66,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Fix bug when the device did not boot on iOS 15.1.1 and below\n- Removed everything from autostart, this should solve the memory problem\n- Settings move to the standard menu\n-Add switch to hide folder background"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0"
