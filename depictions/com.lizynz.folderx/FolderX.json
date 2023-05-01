@@ -52,7 +52,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "23.04.2023",
+                "text": "01.05.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -66,6 +66,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.3"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- New feature - Launcher (beta)"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0.2"
