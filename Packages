@@ -54,16 +54,34 @@ Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/folde
 
 Package: com.lizynz.folderx
 Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 732
+Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
+Filename: ./debs/com.lizynz.folderx_1.0.4_iphoneos-arm.deb
+Size: 86334
+MD5sum: 693261bb7d62c57f81052eef643ce199
+SHA1: f058548b461707397482c811adf0e678a51196dd
+SHA256: 9dcdfa675e05ad8573e7961c0765836e6183ff22a44316a8f200df3cd9ac27fc
+Section: Tweaks
+Description: Allows you to configure folders
+Author: Lizynz <lizynz@ya.ru>
+Name: FolderX
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
+
+Package: com.lizynz.folderx.rootless
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 732
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx_1.0.4_iphoneos-arm64.deb
-Size: 87366
-MD5sum: 0179833c41100047690c8808913db6a7
-SHA1: cadfe98f9b7e785f018bc3bd57703d00cb64c684
-SHA256: ed240ec8c1bf36e605909edd3a387c6f65d2893b623a2e4fa713d5de2767cc64
+Filename: ./debs/com.lizynz.folderx.rootless_1.0.4_iphoneos-arm64.deb
+Size: 87026
+MD5sum: 300ed4dddd5ed9fe638d785d3f93f72b
+SHA1: c9dbbf5e2d6897d9140517bd107b6cdc4f734631
+SHA256: 376b96b048e05a3602a806ca809c477ad49e9b76c6184d1a6d1d95afb746e28b
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
