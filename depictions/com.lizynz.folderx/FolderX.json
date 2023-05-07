@@ -29,7 +29,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 15.x - 16.x (palera1n and Fugu15).</p> <p>En: Customize the folder to your liking.</p> <p>Ru: Настройте папку по своему вкусу.</p>",
+                "markdown": "<p>Compatibility iOS 15.x - 16.x (palera1n and Dopamine).</p> <p>En: Customize the folder to your liking.</p> <p>Ru: Настройте папку по своему вкусу.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -52,7 +52,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "01.05.2023",
+                "text": "07.05.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -66,6 +66,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.4"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Support latest version Dopamine\n- Fix Dark Blur (Launcher)\n- Add toggles sort alphabetically (Launcher)"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0.3"

@@ -53,35 +53,17 @@ Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
 Package: com.lizynz.folderx
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 692
-Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
-Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx_1.0.3_iphoneos-arm.deb
-Size: 85128
-MD5sum: 600c309404ac090e5c62733a4ec7d0a3
-SHA1: 6ca83fc216edc86382ae72fb167344468d129582
-SHA256: 981a309b3cbfa94224260ed045309306a1e3909e227fcd78c1a27036181fdbdb
-Section: Tweaks
-Description: Allows you to configure folders
-Author: Lizynz <lizynz@ya.ru>
-Name: FolderX
-Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
-
-Package: com.lizynz.folderx.rootless
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 692
+Installed-Size: 732
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx.rootless_1.0.3_iphoneos-arm64.deb
-Size: 85362
-MD5sum: d77aa8749d06969837e261b92e89f018
-SHA1: 28124c82579bf5e59cb6c38ab6eb66b9d1519887
-SHA256: 20c3b52f644c380e08cd2b3142d94606b5cce977cf62161ad73c5983dc5e2d06
+Filename: ./debs/com.lizynz.folderx_1.0.4_iphoneos-arm64.deb
+Size: 87366
+MD5sum: 0179833c41100047690c8808913db6a7
+SHA1: cadfe98f9b7e785f018bc3bd57703d00cb64c684
+SHA256: ed240ec8c1bf36e605909edd3a387c6f65d2893b623a2e4fa713d5de2767cc64
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
