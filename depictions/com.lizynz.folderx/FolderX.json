@@ -19,12 +19,16 @@
                         "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F2.jpeg"
                     },
                     {
-                                "accessibilityText": "Screenshot2",
-                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F3.jpeg"
+                        "accessibilityText": "Screenshot2",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F3.jpeg"
                     },
                     {
-                                "accessibilityText": "Screenshot3",
-                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F4.jpeg"
+                        "accessibilityText": "Screenshot3",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F4.jpeg"
+                    },
+                    {
+                                "accessibilityText": "Screenshot4",
+                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F5.jpeg"
                     }]
             },
             {
@@ -52,7 +56,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "07.05.2023",
+                "text": "24.05.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -66,6 +70,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.5"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Add Hide Folder Page Dots\n- Minor fix"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0.4"

@@ -53,17 +53,17 @@ Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
 Package: com.lizynz.folderx
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 732
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx_1.0.4_iphoneos-arm.deb
-Size: 86334
-MD5sum: 693261bb7d62c57f81052eef643ce199
-SHA1: f058548b461707397482c811adf0e678a51196dd
-SHA256: 9dcdfa675e05ad8573e7961c0765836e6183ff22a44316a8f200df3cd9ac27fc
+Filename: ./debs/com.lizynz.folderx_1.0.5_iphoneos-arm.deb
+Size: 85742
+MD5sum: 3f05fee02ae63d155e152828e0f93abe
+SHA1: 92c0724bcb6e6163e0e970a948e06d779db1c583
+SHA256: b35e8ebbcff8dcf5f107e41d5de83b503f89b01e7832de1de0171dea68060e98
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
@@ -71,17 +71,17 @@ Name: FolderX
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 
 Package: com.lizynz.folderx.rootless
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 732
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx.rootless_1.0.4_iphoneos-arm64.deb
-Size: 87026
-MD5sum: 300ed4dddd5ed9fe638d785d3f93f72b
-SHA1: c9dbbf5e2d6897d9140517bd107b6cdc4f734631
-SHA256: 376b96b048e05a3602a806ca809c477ad49e9b76c6184d1a6d1d95afb746e28b
+Filename: ./debs/com.lizynz.folderx.rootless_1.0.5_iphoneos-arm64.deb
+Size: 87376
+MD5sum: b458acfc3216c6f072ea91b56f1c2b5b
+SHA1: 0d384396d6b02855afeb4669e9c52d7cd5db559c
+SHA256: e0a2f883aaab44b0506735ae8477b446d47c3a06514b1e7cb4e2918c9b143203
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
