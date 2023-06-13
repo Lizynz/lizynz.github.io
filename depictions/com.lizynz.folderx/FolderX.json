@@ -27,8 +27,16 @@
                         "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F4.jpeg"
                     },
                     {
-                                "accessibilityText": "Screenshot4",
-                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F5.jpeg"
+                        "accessibilityText": "Screenshot4",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F5.jpeg"
+                    },
+                    {
+                        "accessibilityText": "Screenshot5",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F6.jpeg"
+                    },
+                    {
+                                "accessibilityText": "Screenshot6",
+                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F7.jpeg"
                     }]
             },
             {
@@ -56,7 +64,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "24.05.2023",
+                "text": "13.06.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -70,6 +78,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.6"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Updated launcher style\n- Ability to edit the folder name from the launcher (New)\n- Hide title in folder (New)\n- Hide title on home screen (New)"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0.5"
