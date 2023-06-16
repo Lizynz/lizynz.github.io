@@ -64,7 +64,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "13.06.2023",
+                "text": "16.06.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -78,6 +78,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.7"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Launcher supports bookmarks!\n- Fixed bug that caused the folder to fly away when editing title from the launcher"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0.6"

@@ -53,17 +53,17 @@ Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
 Package: com.lizynz.folderx
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 680
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx_1.0.6_iphoneos-arm.deb
-Size: 84470
-MD5sum: 6fd4251c6d8fcb6963372f8430d64fc3
-SHA1: 98d132757cf13a045c6f4022e31d94b2956bb293
-SHA256: 84d9e237cb0828839e93a79827dc143c8b642aa421ff631955710db7c8f5dd91
+Filename: ./debs/com.lizynz.folderx_1.0.7_iphoneos-arm.deb
+Size: 84460
+MD5sum: 2de4bde0f37cc2f45ec9a413db51fa9a
+SHA1: 27e901239e6d7f9e608bde9276a7f2cb2603416b
+SHA256: 42651d24015b93eddeb63d19a0c0eefefd2670ed134426f1d2e11da682f11a33
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
@@ -71,17 +71,17 @@ Name: FolderX
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 
 Package: com.lizynz.folderx.rootless
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 684
+Installed-Size: 680
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx.rootless_1.0.6_iphoneos-arm64.deb
-Size: 85606
-MD5sum: 7d81d4a82b0c1d0573129f3cca547e6b
-SHA1: df2e4f78b7c1795a6309bbeb8e44517c520c4512
-SHA256: f1463811cd729459f3ebec87351cac3ce3c337e8e968e4e2071664e9da6ae52c
+Filename: ./debs/com.lizynz.folderx.rootless_1.0.7_iphoneos-arm64.deb
+Size: 85472
+MD5sum: 278a926033ef6171d980cf418810bb24
+SHA1: 2fe7c1e4c057c33a25695e64f42269888fd2af4d
+SHA256: c48ba449fdd7e395f4ae33ab5f151811e8ff56a3d65eb7bc0735adac990641b3
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
