@@ -80,6 +80,14 @@
                 "views": [
             {
                 "class": "DepictionSubheaderView",
+                "title": "Version 1.0.8"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Fixed Safe Mode (bug with deleting bookmarks)"
+            },
+            {
+                "class": "DepictionSubheaderView",
                 "title": "Version 1.0.7"
             },
             {
