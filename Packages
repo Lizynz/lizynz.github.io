@@ -53,17 +53,17 @@ Name: FolderColor
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
 
 Package: com.lizynz.folderx
-Version: 1.0.8
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 680
+Installed-Size: 748
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
-Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx_1.0.8_iphoneos-arm.deb
-Size: 84432
-MD5sum: 57d2defd1a7ae3d2fd8b64c6143db491
-SHA1: 9c9b81223cb902026643283867ed37d3e66d056c
-SHA256: a0c0ee523cf2f51c717f0a7e5f788a5bc03d9c72c5fb6e6753d5ea3e0edc7e0c
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder
+Filename: ./debs/com.lizynz.folderx_1.1.0_iphoneos-arm.deb
+Size: 88390
+MD5sum: d962763e57ffd62f7cebe67f44363b9f
+SHA1: fb92ae81fa29359619c32ca64bdc1b5c2e4f8985
+SHA256: c3107190cab5017c4aa6be674bd82e328f486a1c06de6d1a832d261d6a4fb2f0
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
@@ -71,17 +71,17 @@ Name: FolderX
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 
 Package: com.lizynz.folderx.rootless
-Version: 1.0.8
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 680
+Installed-Size: 748
 Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
-Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
-Filename: ./debs/com.lizynz.folderx.rootless_1.0.8_iphoneos-arm64.deb
-Size: 85494
-MD5sum: 2bcae88af296e84ad1fa23cd7b580595
-SHA1: d6ac0601f7d8be8e9fbf592fc491f0c5127eecab
-SHA256: 1d719c6865800d48cbafee1e1ac51bc7933c4952eeb80dcd8ea90563a64ac506
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder
+Filename: ./debs/com.lizynz.folderx.rootless_1.1.0_iphoneos-arm64.deb
+Size: 89502
+MD5sum: 3131a88ab1a99725c5e3d4c1de29be50
+SHA1: 698d6b63562fe71e996feed4be6f81143faccb5b
+SHA256: a3e54ebdce3065c817a5f7b1fcf0134f9bac4719dc4d4d59db22c1926575096e
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
