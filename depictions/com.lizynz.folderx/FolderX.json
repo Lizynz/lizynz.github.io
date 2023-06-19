@@ -41,7 +41,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 15.x - 16.x (palera1n and Dopamine).</p> <p>En: Customize the folder to your liking.</p> <p>Ru: Настройте папку по своему вкусу.</p>",
+                "markdown": "<p>Compatibility iOS/iPadOS 15.x - 16.x (palera1n and Dopamine).</p> <p>En: Customize the folder to your liking.</p> <p>Ru: Настройте папку по своему вкусу.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
