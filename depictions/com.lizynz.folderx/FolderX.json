@@ -69,7 +69,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "18.06.2023",
+                "text": "20.06.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -83,6 +83,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.1.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Fix bug with launcher call from the dock on iPad\n- Fix bug orientation launcher"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.1.0"
