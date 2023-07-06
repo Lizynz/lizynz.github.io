@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 11.x - 16.x</p> <p>En: Choose one of three premium icons for Telegram (open application, wait 3 seconds).</p> <p>Ru: Выберите одну из трех премиум-иконок для Telegram (откроется приложение, подождите 3 секунды).</p>",
+                "markdown": "<p>En: Choose one of three premium icons for Telegram (open application, wait 3 seconds).</p> <p>Ru: Выберите одну из трех премиум-иконок для Telegram (откроется приложение, подождите 3 секунды).</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -35,7 +35,12 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Devices",
-                "text": "All Devices"
+                "text": "iPhone & iPad"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Compatibility",
+                "text": "11.x - 17.x"
             },
             {
                 "class": "DepictionTableTextView",
