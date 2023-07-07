@@ -54,13 +54,13 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "title": "Compatibility",
-                "text": "15.x - 16.x"
+                "title": "Devices",
+                "text": "iPhone & iPad"
             },
             {
                 "class": "DepictionTableTextView",
-                "title": "Devices",
-                "text": "iPhone & iPad"
+                "title": "Compatibility",
+                "text": "11.x - 17.x"
             },
             {
                 "class": "DepictionTableTextView",

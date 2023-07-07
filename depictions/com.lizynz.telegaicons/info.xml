@@ -21,15 +21,15 @@
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>t1.jpg</image>
+			<image>t1.jpeg</image>
 		</screenshot>
         <screenshot>
             <description></description>
-            <image>t2.jpg</image>
+            <image>t2.jpeg</image>
         </screenshot>
 	</screenshots>
 	<changelog>
-		<change>Tested on iOS 15.x - 16.x (palera1n)</change>
+		<change>Tested on iOS 15.x - 17.x (Dopamine, palera1n and bakera1n).</change>
 	</changelog>
 	<links>
                 <link>
