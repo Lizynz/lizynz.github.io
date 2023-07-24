@@ -123,25 +123,6 @@ Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
 Name: Telega Icons
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 
-Package: com.lizynz.vkmemore
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkmemore_1.0.5_iphoneos-arm.deb
-Size: 5424
-MD5sum: e3ee13dd6baf5d7c8df3dcf0dfe1ad21
-SHA1: fbc7245fdd238d02dd18b417bfe656a6f4b2445b
-SHA256: dd5c9f0dc6d5c73ea349267c81d7228901eebf706250bee80a7106b0bb5e7fad
-Section: Tweaks
-Description: Add quick action for VK.me and a few more features
-Author: Lizynz <lizynz@ya.ru>
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmemore
-Name: VKMeMore
-Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkmemore/vkmemore.json
-
 Package: com.lizynz.vkmodule
 Version: 1.0-3
 Architecture: iphoneos-arm
