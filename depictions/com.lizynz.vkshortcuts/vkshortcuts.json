@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 13.x - 16.x</p> <p>En: Quickly go to the desired VKontakte section using URL-scheme.</p> <p>Ru: Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок.</p>",
+                "markdown": "<p>En: Quickly go to the desired VKontakte section using URL-scheme.</p> <p>Ru: Быстро перейдите в нужный раздел ВКонтакте с помощью URL-cсылок.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -35,7 +35,12 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Devices",
-                "text": "iPhone & iPod touch"
+                "text": "iPhone & iPad"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Compatibility",
+                "text": "14.x - 17.x"
             },
             {
                 "class": "DepictionTableTextView",
@@ -44,7 +49,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "16.02.2023",
+                "text": "30.07.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -58,6 +63,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 11.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Исправлена проблема с настройками на Dopamine & palera1n (rootless)\n- Убрана поддержка iOS 13\n- Добавлена поддержка iPad (только последнии версии)\n"
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 11.0"

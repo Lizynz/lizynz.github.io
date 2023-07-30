@@ -1,10 +1,10 @@
 <package>
 	<id>com.lizynz.vkshortcuts</id>
 	<name>vkShortcuts</name>
-    <version>11.0</version>
+    <version>11.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>14.0</miniOS>
 			<otherVersions>unconformed</otherVersions>
 		</firmware>
 	</compatibility>
@@ -29,7 +29,7 @@
         </screenshot>
 	</screenshots>
 	<changelog>
-		<change>Поддержка iOS 15.x - 16.x (palera1n)</change>
+		<change>Поддержка iOS 14.x - 17.x (Dopamine & palera1n)</change>
 	</changelog>
 	<links>
                 <link>

@@ -142,17 +142,16 @@ Name: VKModule
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkmodule/vkmodule.json
 
 Package: com.lizynz.vkshortcuts
-Version: 11.0
+Version: 11.1
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 440
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts_11.0_iphoneos-arm.deb
-Size: 56360
-MD5sum: 1ac466a503d15153a671ddea7c286553
-SHA1: 5f160eee8196a7c4fefee96ccc267d55b4bc3cb8
-SHA256: f2dcd4cdae64ba4ab8329a58cd08f5650000b4747976d358643ba71426255be8
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.lizynz.vkshortcuts_11.1_iphoneos-arm.deb
+Size: 56232
+MD5sum: 10b7e099af3ddb8b4b0315c7d51df805
+SHA1: 834b89730f8924ea13b9a39fa0a4848bf236e332
+SHA256: 62785f9558bf40e77d9a78f4ab3ce5a3e987de2795164a490da94275183b0412
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>
@@ -161,16 +160,16 @@ Name: vkShortcuts
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/vkshortcuts.json
 
 Package: com.lizynz.vkshortcuts.rootless
-Version: 11.0
+Version: 11.1
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 436
 Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: gsc.ipad
-Filename: ./debs/com.lizynz.vkshortcuts.rootless_11.0_iphoneos-arm64.deb
-Size: 55804
-MD5sum: 63e987eed0c4a0083658f4f6428d6125
-SHA1: d46963a698c2317b49aa79746671fcb20f1f7c3c
-SHA256: 0b5b131f143353a73b5c3051a7f8bc217595af982093b8b2bf4b247659fbc027
+Filename: ./debs/com.lizynz.vkshortcuts.rootless_11.1_iphoneos-arm64.deb
+Size: 57044
+MD5sum: 8f4e071346c556f785fc1448a9700698
+SHA1: 7093b28a1c73a816dc1d4b7499cabf76a356a6f0
+SHA256: b4d0ef430f094aedd33add8cd7f4dc0ab9ae53a6803d090777adf53bc368d621
 Section: Tweaks
 Description: Quick action for VK
 Author: Lizynz <lizynz@ya.ru>

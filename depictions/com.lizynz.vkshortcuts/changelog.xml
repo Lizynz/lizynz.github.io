@@ -1,7 +1,13 @@
 <changelog>
     <changes>
-        <version>11.0</version>
-        <change>Поддержка iOS 15.x - 16.x (palera1n)</change>
+        <version>14.0</version>
+        <change>Поддержка iOS 14.x - 17.x (Dopamine & palera1n)</change>
+    </changes>
+    <changes>
+        <version>11.1</version>
+        <change>Исправлена проблема с настройками на Dopamine & palera1n (rootless)</change>
+                <change>Убрана поддержка iOS 13</change>
+                <change>Добавлена поддержка iPad (только последнии версии)</change>
     </changes>
 	<changes>
 		<version>9.3</version>
