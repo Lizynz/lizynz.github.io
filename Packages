@@ -146,15 +146,16 @@ Architecture: iphoneos-arm64
 Maintainer: Lizynz
 Depends: mobilesubstrate, firmware(>=14.0), com.opa334.ccsupport
 Filename: ./debs/com.lizynz.vkmodule.rootless_1.0-4_iphoneos-arm64.deb
-Size: 28684
-MD5sum: e5235314de408689b187264268a6b814
-SHA1: 4b86173bb88c788b4646735122af608ad43f9c7f
-SHA256: 1bbe5a013cc5304eef00819b15712d68cb48da11db9c7ed1a4c9901f069c9656
+Size: 28692
+MD5sum: 7278127b366a8d8ca29d5be5da291c12
+SHA1: ede6cfc3f4cff645b06721ed440408c8aaab4113
+SHA256: 5d742e831a14c6f0076174142d0ffab06c3f8fe408e9efd2ebf002f81baf599d
 Section: Tweaks
 Description: VK module for ControlCenter
 Author: Lizynz
 Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
 Name: VKModule
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkmodule/vkmodule.json
 
 Package: com.lizynz.vkshortcuts
 Version: 11.1
