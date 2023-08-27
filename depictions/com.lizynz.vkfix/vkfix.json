@@ -1,0 +1,71 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "class": "DepictionSubheaderView",
+                "useMargins": true,
+                "title": "No screenshot/Нет скриншота"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>En: Fixed crash applications VK and VK messenger on palera1n.</p> <p>Ru: Исправляет вылет приложений VK и VK messenger на palera1n.</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone & iPad"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Compatibility",
+                "text": "14.x - 17.x"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "27.08.2023",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "27.08.2023",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Release/Релиз"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+         ]
+      }
+   ],
+}
