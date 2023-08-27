@@ -74,7 +74,10 @@
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "- Поддержка iOS 14.x\n- Небольшие улучшения\n- Исходный код доступен на GitHub"
-            }
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
          ]
       }
    ],
