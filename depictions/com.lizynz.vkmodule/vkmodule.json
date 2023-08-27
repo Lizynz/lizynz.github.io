@@ -1,84 +1,98 @@
 {
     "class": "DepictionTabView",
-    "tabs": [
-            {
-               "class": "DepictionStackView",
-               "tabname": "Details",
-               "views":[
-            {
-                "itemCornerRadius": 6,
-                "class": "DepictionScreenshotsView",
-                "itemSize": "{160, 275.41333333333336}",
-                "screenshots": [
-            {
-                        "accessibilityText": "Screenshot0",
-                        "url": "https://lizynz.github.io/depictions/com.lizynz.vkmodule/screenshots/VKM.jpg"
-            }]
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "<p>En: VK module for ControlCenter.</p> <p>Ru: VK модуль для пункта управления.</p>",
-                "useSpacing": true,
-                "useRawFormat": true},
-            {
-                "class": "DepictionSeparatorView"
-            },
-            {
-                "class": "DepictionHeaderView",
-                "title": "Informations",
-                "useBoldText": true
-            },
-            {
-                "class": "DepictionTableTextView",
-                "title": "Devices",
-                "text": "iPhone"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "title": "Compatibility",
-                "text": "14.x - 16.x"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "title": "Price",
-                "text": "Free"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "text": "27.08.2023",
-                "title": "Last Time Updated"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "text": "30.12.2020",
-                "title": "Released"
-            }],
-               "xPadding": 10
-            },
-            {
-                "class": "DepictionStackView",
-                "tabname": "Changelog",
-                "views": [
-            {
-                "class": "DepictionSubheaderView",
-                "title": "Version 1.0-4"
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "- Поддержка iOS 15.x - 16.x\n- Поддержка rootless джейлбрейка\n"
-            },
-            {
-                "class": "DepictionSubheaderView",
-                "title": "Version 1.0-3"
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "- Поддержка iOS 14.x\n- Небольшие улучшения\n- Исходный код доступен на GitHub"
-            },
-            {
-                "class": "DepictionSeparatorView"
-            },
-         ]
-      }
-   ],
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://lizynz.github.io/depictions/com.lizynz.vkmodule/screenshots/VKM.jpg"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "VK module for ControlCenter"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Changes",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Небольшие улучшения",
+                    "useSpacing": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Informations",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Current Version",
+                    "text": "1.0-3",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "30.12.2020",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "30.12.2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 & 14"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "All Devices"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Lizynz"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Lizynz1 Twitter",
+                    "action": "https://twitter.com/Lizynz1"
+                }
+            ]
+        }
+    ],
 }
