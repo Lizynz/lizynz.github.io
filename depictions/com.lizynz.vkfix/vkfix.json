@@ -6,13 +6,18 @@
                "tabname": "Details",
                "views":[
             {
-                "class": "DepictionSubheaderView",
-                "useMargins": true,
-                "title": "No screenshot/Нет скриншота"
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                        "accessibilityText": "Screenshot0",
+                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.vkfix/screenshots/vkfix.jpeg"
+            }]
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>En: Fixed crash applications VK and VK messenger on palera1n.</p> <p>Ru: Исправляет вылет приложений VK и VK messenger на palera1n.</p>",
+                "markdown": "<p>En: Fixed crash applications VK on palera1n (see screenshot).</p> <p>Ru: Исправляет вылет приложений VK на palera1n (см. скриншот).</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -40,7 +45,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "27.08.2023",
+                "text": "28.08.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -54,6 +59,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Добавлены исправления для VK Видео, Звонки, Админ, Клипы, Почта, Музыка и Знакомства."
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.0"

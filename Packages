@@ -124,35 +124,35 @@ Name: Telega Icons
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 
 Package: com.lizynz.vkfix
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Lizynz
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.lizynz.vkfix_1.0_iphoneos-arm.deb
-Size: 3146
-MD5sum: 94346e982891f67ff677191f59af29b8
-SHA1: 28d4422b9ca47899d567a19ac2d8cdc87b0930fd
-SHA256: 327a5ee574ab2d887762f6105372d5e6b2a47a329812acd48bbf42f312af5d87
+Filename: ./debs/com.lizynz.vkfix_1.0.1_iphoneos-arm.deb
+Size: 3198
+MD5sum: 8eefb8b2c5d4b4ac67f7f28a65fc8fe8
+SHA1: d610bfad65303119b039a7618fab649e3c655e4d
+SHA256: 0e8c09e3ccaa0409a9c28556966d218890da1041328669995e5203815c0386d9
 Section: Tweaks
-Description: Fixed crash applications VK and VK messenger on palera1n!
+Description: Fixed crash applications VK on palera1n!
 Author: Lizynz
 Name: VKFix
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkfix/vkfix.json
 
 Package: com.lizynz.vkfix.rootless
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: Lizynz
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.lizynz.vkfix.rootless_1.0_iphoneos-arm64.deb
-Size: 3208
-MD5sum: abf8872df0ea60c11b061adc96a5733b
-SHA1: c14831997df14fc70e9a952212cbd457937714be
-SHA256: d651bc0e07d85e8130a02becdfb830d67ffe2db383dbfcbdde3e4afea1330ab0
+Filename: ./debs/com.lizynz.vkfix.rootless_1.0.1_iphoneos-arm64.deb
+Size: 3258
+MD5sum: 10f23d97de6f3805a38eb021728272ce
+SHA1: ce0571c99a8cf658fbcd5cad6f6d41980af788ff
+SHA256: a8b5d4f902ad8360e2cfff4b7cdc439b164b8957a4f2d57fa147f9202b842503
 Section: Tweaks
-Description: Fixed crash applications VK and VK messenger on palera1n!
+Description: Fixed crash applications VK on palera1n!
 Author: Lizynz
 Name: VKFix
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.vkfix/vkfix.json
