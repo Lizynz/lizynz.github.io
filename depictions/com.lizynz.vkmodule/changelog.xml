@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>1.0-4</version>
-		<change>Поддержка iOS 15.x - 16.x</change>
+		<change>Поддержка iOS/iPadOS 15.x - 17.x</change>
         <change>Поддержка rootless джейлбрейка</change>
 	</changes>
 </changelog>

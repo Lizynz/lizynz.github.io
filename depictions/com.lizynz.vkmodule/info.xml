@@ -25,7 +25,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-        <change>Поддержка iOS 15.x - 16.x</change>
+        <change>Поддержка iOS/iPadOS 15.x - 17.x</change>
         <change>Поддержка rootless джейлбрейка</change>
 	</changelog>
 	<links>
