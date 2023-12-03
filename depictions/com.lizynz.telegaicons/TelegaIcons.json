@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>En: Choose one of three premium icons for Telegram (open application, wait 3 seconds).</p> <p>Ru: Выберите одну из трех премиум-иконок для Telegram (откроется приложение, подождите 3 секунды).</p>",
+                "markdown": "<p>En: Choose one of three premium icons for Telegram.</p> <p>Ru: Выберите одну из трех премиум-иконок для Telegram.</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -40,7 +40,7 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Compatibility",
-                "text": "11.x - 17.x"
+                "text": "15.x - 17.x"
             },
             {
                 "class": "DepictionTableTextView",
@@ -49,7 +49,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "21.03.2023",
+                "text": "03.12.2023",
                 "title": "Last Time Updated"
             },
             {
@@ -65,7 +65,15 @@
                 "views": [
             {
                 "class": "DepictionSubheaderView",
-                "title": "Version 1.0"
+                "title": "Version 1.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- It was an experiment, but people use it, so I decided to make it a little better."
+            },
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0."
             },
             {
                 "class": "DepictionMarkdownView",
