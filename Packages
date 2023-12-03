@@ -90,15 +90,33 @@ Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.j
 
 Package: com.lizynz.telegaicons
 Version: 1.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 220
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.lizynz.telegaicons_1.1_iphoneos-arm64.deb
-Size: 20964
-MD5sum: ee6e263a62e117093d99089ecb244ad2
-SHA1: 64a32e8153c0c54620bb7c965dd1da88f5258be9
-SHA256: 80d53375712fed04986b31affd2f4f0d24af7dbe3430936c43c2dd1e52e56396
+Filename: ./debs/com.lizynz.telegaicons_1.1_iphoneos-arm.deb
+Size: 20934
+MD5sum: cfa21d7a1f8c461d9de2132192140c9c
+SHA1: cd7dcecf483d09c6335d42eb60c9e2741eabddbe
+SHA256: 3296b47ac2ccb96ed8c83f5ae54a483018b421c00826c0751fe2d811632b3205
+Section: Tweaks
+Description: Change the telegram icon
+Author: Lizynz <lizynz@ya.ru>
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.telegaicons
+Name: Telega Icons
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
+
+Package: com.lizynz.telegaicons.rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lizynz.telegaicons.rootless_1.1_iphoneos-arm64.deb
+Size: 20970
+MD5sum: 1ffec062830f4339683d3d66c88bec64
+SHA1: 430f57ecf8e79025775dfa58be583a783bf6fbc9
+SHA256: e1b26f31b6f5067bcc856921e43f4389c1f1ee31e656ffe0bc39ab30498897fd
 Section: Tweaks
 Description: Change the telegram icon
 Author: Lizynz <lizynz@ya.ru>
