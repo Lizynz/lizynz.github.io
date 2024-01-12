@@ -88,6 +88,23 @@ Author: Lizynz <lizynz@ya.ru>
 Name: FolderX
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 
+Package: com.lizynz.shadowbuster.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lizynz <lizynz@ya.ru>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lizynz.shadowbuster.rootless_1.0_iphoneos-arm64.deb
+Size: 2330
+MD5sum: ed48b735f499418b73d5acb7f96a58df
+SHA1: ea49406fceed7577cf38f44bf638b93d5baa1ca8
+SHA256: 38a05a047f8a8321dc40741dda549318ef93f8a9510ab0b0090455fab6618755
+Section: Tweaks
+Description: Get rid shadows
+Author: Lizynz <lizynz@ya.ru>
+Name: ShadowBuster
+Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.shadowbuster/ShadowBuster.json
+
 Package: com.lizynz.telegaicons
 Version: 1.1
 Architecture: iphoneos-arm

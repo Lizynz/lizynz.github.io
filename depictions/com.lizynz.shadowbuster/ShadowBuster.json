@@ -1,0 +1,66 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>En: A simple tweak for removing shadows.</p> <p>Ru: Простенький твик для удаления теней.</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone & iPad"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Compatibility",
+                "text": "15.x - 17.x"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "12.01.2024",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "12.01.2024",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Release"
+            },
+            {
+                "class": "DepictionSeparatorView"
+            },
+         ]
+      }
+   ],
+}
