@@ -106,16 +106,16 @@ Name: ShadowBuster
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.shadowbuster/ShadowBuster.json
 
 Package: com.lizynz.telegaicons
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 220
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/com.lizynz.telegaicons_1.1_iphoneos-arm.deb
-Size: 20934
-MD5sum: cfa21d7a1f8c461d9de2132192140c9c
-SHA1: cd7dcecf483d09c6335d42eb60c9e2741eabddbe
-SHA256: 3296b47ac2ccb96ed8c83f5ae54a483018b421c00826c0751fe2d811632b3205
+Installed-Size: 216
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lizynz.telegaicons_1.2_iphoneos-arm.deb
+Size: 19808
+MD5sum: a126eee140cf8e6009ef1addfe11845c
+SHA1: abaae0ba82d3bca7d300bc48f89168e51e98b8b6
+SHA256: 5feca81a811bae6d6864967d4125e618033594526ba88d1190324107c0553850
 Section: Tweaks
 Description: Change the telegram icon
 Author: Lizynz <lizynz@ya.ru>
@@ -124,16 +124,16 @@ Name: Telega Icons
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 
 Package: com.lizynz.telegaicons.rootless
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 220
+Installed-Size: 216
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.lizynz.telegaicons.rootless_1.1_iphoneos-arm64.deb
-Size: 20970
-MD5sum: 1ffec062830f4339683d3d66c88bec64
-SHA1: 430f57ecf8e79025775dfa58be583a783bf6fbc9
-SHA256: e1b26f31b6f5067bcc856921e43f4389c1f1ee31e656ffe0bc39ab30498897fd
+Filename: ./debs/com.lizynz.telegaicons.rootless_1.2_iphoneos-arm64.deb
+Size: 19858
+MD5sum: e3281d9a08b99210e0d327abf465ee18
+SHA1: 7edeb6df22b401c5447f6db144757e56ff515c98
+SHA256: 8fa4926ac47aff141e3b0172788e8656232de447db4bfe460e63043c2265df22
 Section: Tweaks
 Description: Change the telegram icon
 Author: Lizynz <lizynz@ya.ru>

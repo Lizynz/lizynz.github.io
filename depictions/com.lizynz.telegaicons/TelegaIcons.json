@@ -49,7 +49,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "03.12.2023",
+                "text": "20.02.2024",
                 "title": "Last Time Updated"
             },
             {
@@ -65,7 +65,7 @@
                 "views": [
             {
                 "class": "DepictionSubheaderView",
-                "title": "Version 1.1"
+                "title": "Version 1.2"
             },
             {
                 "class": "DepictionMarkdownView",
