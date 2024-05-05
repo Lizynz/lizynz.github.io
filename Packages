@@ -124,16 +124,16 @@ Name: Telega Icons
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.telegaicons/TelegaIcons.json
 
 Package: com.lizynz.telegaicons.rootless
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
 Installed-Size: 216
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.lizynz.telegaicons.rootless_1.2_iphoneos-arm64.deb
-Size: 19858
-MD5sum: e3281d9a08b99210e0d327abf465ee18
-SHA1: 7edeb6df22b401c5447f6db144757e56ff515c98
-SHA256: 8fa4926ac47aff141e3b0172788e8656232de447db4bfe460e63043c2265df22
+Filename: ./debs/com.lizynz.telegaicons.rootless_1.3_iphoneos-arm64.deb
+Size: 19370
+MD5sum: 991a3a9bccdce6748e2041e93c1566b3
+SHA1: dce8c5a7037de5ad3dd8220a99a6354e4ac4e8c6
+SHA256: 1e1639ed3b4f21accdb4e26017c42df1d5b268eea821048a7561a7db43e65393
 Section: Tweaks
 Description: Change the telegram icon
 Author: Lizynz <lizynz@ya.ru>
