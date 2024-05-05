@@ -68,10 +68,6 @@
                 "markdown": "- New yellow icon.\n- Added support Telegram 10.12."
             },
             {
-                "class": "DepictionStackView",
-                "tabname": "Changelog",
-                "views": [
-            {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.2"
             },
