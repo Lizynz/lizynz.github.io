@@ -40,7 +40,7 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Compatibility",
-                "text": "14.x - 17.x"
+                "text": "14.x - 18.x"
             },
             {
                 "class": "DepictionTableTextView",
