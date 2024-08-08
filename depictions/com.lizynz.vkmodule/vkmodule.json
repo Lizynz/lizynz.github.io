@@ -36,7 +36,7 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Compatibility",
-                "text": "14.x - 17.x"
+                "text": "14.x - 18.x"
             },
             {
                 "class": "DepictionTableTextView",
@@ -65,7 +65,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "- Поддержка iOS/iPadOS 15.x - 17.x\n- Поддержка rootless джейлбрейка\n"
+                "markdown": "- Поддержка iOS/iPadOS 15.x - 18.x\n- Поддержка rootless джейлбрейка\n"
             },
             {
                 "class": "DepictionSubheaderView",
@@ -73,7 +73,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "- Поддержка iOS 14.x\n- Небольшие улучшения\n- Исходный код доступен на GitHub"
+                "markdown": "- Поддержка iOS 14.x\n- Небольшие улучшения"
             },
             {
                 "class": "DepictionSeparatorView"
