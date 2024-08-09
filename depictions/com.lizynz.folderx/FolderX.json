@@ -60,7 +60,7 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Compatibility",
-                "text": "14.x - 17.x"
+                "text": "14.x - 18.x"
             },
             {
                 "class": "DepictionTableTextView",
@@ -69,7 +69,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "28.09.2023",
+                "text": "09.08.2024",
                 "title": "Last Time Updated"
             },
             {
@@ -83,6 +83,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.1.5"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Fixed bug where folder icon color affected App Library icon.\n- Update localization Chinese (Traditional and Simplified), thanks @olivertzeng."
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 1.1.4"
