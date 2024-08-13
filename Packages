@@ -16,54 +16,18 @@ Depiction: https://lizynz.github.io/depictions/?p=com.fortysixandtwo.customfolde
 Name: CustomFolderIcons
 Sileodepiction: https://lizynz.github.io/depictions/com.fortysixandtwo.customfoldericons/customfoldericons.json
 
-Package: com.lizynz.calendarspro
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.lizynz.calendarspro_1.0_iphoneos-arm.deb
-Size: 3810
-MD5sum: 8a9c6bda2c19b1859d58f735d4507819
-SHA1: 614849675210d90bf29af702d5342160302305b8
-SHA256: 96cf26e4973a212b733b9f3b4a45f726c0265c6cf6f9bb2a7189669eed510194
-Section: Tweaks
-Description: Calendars: Planner & Reminders activate PRO!!!
-Author: Lizynz <lizynz@ya.ru>
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.calendarspro
-Name: Calendars Pro
-Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.calendarspro/calendarspro.json
-
-Package: com.lizynz.foldercolor
-Version: 2.0-7
-Architecture: iphoneos-arm
-Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 376
-Depends: mobilesubstrate, firmware(>=13.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.lizynz.foldercolor_2.0-7_iphoneos-arm.deb
-Size: 26878
-MD5sum: 210038071589bf005c7958a45a790175
-SHA1: 92d35ec90e8121f4864544aec5a24fb6a6128337
-SHA256: 3d7f88c7027eb6a159129b85c8d566725c23429ed563cf2dfd86a8802353794c
-Section: Tweaks
-Description: Customize your folders.
-Author: Lizynz <lizynz@ya.ru>
-Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.foldercolor
-Name: FolderColor
-Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.foldercolor/foldercolor.json
-
 Package: com.lizynz.folderx
-Version: 1.1.5
+Version: 1.1.6
 Architecture: iphoneos-arm
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 732
+Installed-Size: 736
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.nightwind.dockapplibrary, com.tomaszpoliszuk.dockcontroller
-Filename: ./debs/com.lizynz.folderx_1.1.5_iphoneos-arm.deb
-Size: 81126
-MD5sum: 48e4c356ec5a59cd5cd81f2b93ed5f9f
-SHA1: d0a57cdb011f026ad9f27e0e3716aa5f4306e4b5
-SHA256: 1493a788d4fb6bd7db3178c688db26fa225f09eda5eb618e351572a85166fec9
+Filename: ./debs/com.lizynz.folderx_1.1.6_iphoneos-arm.deb
+Size: 81510
+MD5sum: 311471cbf076730fb81a0249728c8e32
+SHA1: e67b6381d83067a7a6d57756b6ef75e04040a012
+SHA256: d70ba39e4368ded455b3f94b58a0d42f86fe2b8d662ecc8672bde2ae65214857
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
@@ -71,17 +35,17 @@ Name: FolderX
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
 
 Package: com.lizynz.folderx.rootless
-Version: 1.1.5
+Version: 1.1.6
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 732
+Installed-Size: 736
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.nightwind.dockapplibrary, com.tomaszpoliszuk.dockcontroller
-Filename: ./debs/com.lizynz.folderx.rootless_1.1.5_iphoneos-arm64.deb
-Size: 82138
-MD5sum: 3af122bd2692eea5b59efc33935e3a61
-SHA1: 0952bc38973f2e94b720f230a4613eb97bb87b3e
-SHA256: 727b62b867fcbaf5a781641f563ab2f425e72650f44b31336f1bfbd5169d300b
+Filename: ./debs/com.lizynz.folderx.rootless_1.1.6_iphoneos-arm64.deb
+Size: 82536
+MD5sum: ab483a60dcdda87782cba92bc989d644
+SHA1: 4d837a19992a1d5c0e94903e31a22dcd5f338bb8
+SHA256: 831dc6653cca263256565ffbf1e06cd0ae7a371ed6df9f5b7c1e081a73ddf030
 Section: Tweaks
 Description: Allows you to configure folders
 Author: Lizynz <lizynz@ya.ru>
