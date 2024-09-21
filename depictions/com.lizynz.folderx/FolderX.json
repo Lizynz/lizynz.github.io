@@ -69,7 +69,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "13.08.2024",
+                "text": "21.09.2024",
                 "title": "Last Time Updated"
             },
             {
@@ -85,11 +85,11 @@
                 "views": [
             {
                 "class": "DepictionSubheaderView",
-                "title": "Version 1.1.6"
+                "title": "Version 2.0"
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "- Fixed bug when radius did not change at first setup or after reset.\n- Added slider for adjusting folder size."
+                "markdown": "\n- Color palette not require respring (except icon).\n- Added change the color of icon label.\n- Fixed icons in App Library.\n- Fixed bug where folder icon color affected App Library icon.\n- Fixed bug where the launcher remained after closing the folder.\n- Fixed bug when radius did not change at first setup or after reset.\n- Added slider for adjusting folder size."
             },
             {
                 "class": "DepictionSubheaderView",
