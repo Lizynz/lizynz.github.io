@@ -1,8 +1,62 @@
-<pre><center>
-<title>Lizynz's Repo</title>
-<h1>Lizynz's Repo</h1>
-<li>Add to <a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://lizynz.github.io">Cydia</a></li>
-<li>Add to <a class="btn btn-sm btn-default" href="installer://add/https://lizynz.github.io">Installer</a></li>
-<li>Add to <a class="btn btn-sm btn-default" href="sileo://source/https://lizynz.github.io">Sileo</a></li>
-<li>Add to <a class="btn btn-sm btn-default" href="zbra://sources/add/https://lizynz.github.io">Zebra</a></li>
-</center></pre>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lizynz's Repo</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #ffffff;
+            color: #000000;
+            font-family: Arial, sans-serif;
+        }
+
+        ul {
+            padding: 0;
+            text-align: left;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .btn {
+            color: #007bff;
+            background-color: transparent;
+            padding: 0;
+            text-decoration: none;
+            border: none;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            text-decoration: underline;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #2c2c2c;
+                color: #ffffff;
+            }
+
+            .btn {
+                color: #007bff;
+            }
+        }
+    </style>
+</head>
+<body>
+    <img src="CydiaIcon@3x.png" alt="Cydia Icon" style="max-width: 100px; margin-bottom: 20px;">
+    <h1>Lizynz's Repo</h1>
+    <ul>
+        <li><a class="btn" href="sileo://source/https://lizynz.github.io">Add to Sileo</a></li>
+        <li><a class="btn" href="zbra://sources/add/https://lizynz.github.io">Add to Zebra</a></li>
+    </ul>
+</body>
+</html>
