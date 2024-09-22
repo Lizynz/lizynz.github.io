@@ -1,21 +1,3 @@
-Package: com.fortysixandtwo.customfoldericons
-Version: 14.0
-Architecture: iphoneos-arm
-Maintainer: magn2o & lizynz1
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: pl.vertex.foldericons, com.xtm3x.noblur, com.lizynz.fullfolderx, com.lizynz.fullfolder11, com.lizynz.foldercolor
-Filename: ./debs/com.fortysixandtwo.customfoldericons_14.0_iphoneos-arm.deb
-Size: 38894
-MD5sum: aa45d6ecd5ade6639e3d2b18ed6d64b6
-SHA1: 081b7522d13937529a0a98ec6bf4b0a6d18f58bf
-SHA256: a13af86a3cda198d6faf98571e36d94dc441a109d36f3ae0abe24bd6726b5361
-Section: Tweaks
-Description: A simple no-frills custom icon and background tweak.
-Author: magn2o & lizynz1
-Depiction: https://lizynz.github.io/depictions/?p=com.fortysixandtwo.customfoldericons
-Name: CustomFolderIcons
-Sileodepiction: https://lizynz.github.io/depictions/com.fortysixandtwo.customfoldericons/customfoldericons.json
-
 Package: com.lizynz.folderx
 Version: 2.0
 Architecture: iphoneos-arm
