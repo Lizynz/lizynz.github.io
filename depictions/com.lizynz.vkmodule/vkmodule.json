@@ -74,10 +74,7 @@
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "- Поддержка iOS 14.x\n- Небольшие улучшения"
-            },
-            {
-                "class": "DepictionSeparatorView"
-            },
+            }
          ]
       }
    ],

@@ -74,10 +74,7 @@
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "- Release/Релиз"
-            },
-            {
-                "class": "DepictionSeparatorView"
-            },
+            }
          ]
       }
    ],

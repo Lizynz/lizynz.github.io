@@ -82,9 +82,6 @@
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "- Tested on iOS 15.x - 17.x (Dopamine, palera1n and bakera1n)."
-            },
-            {
-                "class": "DepictionSeparatorView"
             }
          ]
       }

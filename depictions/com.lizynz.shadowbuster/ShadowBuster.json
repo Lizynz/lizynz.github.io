@@ -56,10 +56,7 @@
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "- Release"
-            },
-            {
-                "class": "DepictionSeparatorView"
-            },
+            }
          ]
       }
    ],
