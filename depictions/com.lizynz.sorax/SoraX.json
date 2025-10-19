@@ -1,81 +1,93 @@
 {
     "class": "DepictionTabView",
     "tabs": [
-            {
-               "class": "DepictionStackView",
-               "tabname": "Details",
-               "views":[
-            {
-                "itemCornerRadius": 6,
-                "class": "DepictionScreenshotsView",
-                "itemSize": "{160, 275.41333333333336}",
-                "screenshots": [
-                    {
-                        "accessibilityText": "Screenshot0",
-                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.sorax/screenshots/1.jpeg"
-                    }]
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "<p>En: Press and hold the feed (Haptic Touch) to download videos or copy the link.</p> <p>Ru: Нажмите и удерживайте ленту (Haptic Touch), чтобы скачать видео или скопировать ссылку.</p>",
-                "useSpacing": true,
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views":[
+                {
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.sorax/screenshots/1.jpeg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.sorax/screenshots/2.jpeg"
+                        }]
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<p>En: Press and hold the feed (Haptic Touch) to download, copy link or find video.</p> <p>Ru: Нажмите и удерживайте ленту (Haptic Touch), чтобы скачать, скопировать ссылку или найти видео.</p>",
+                    "useSpacing": true,
                 "useRawFormat": true},
-            {
-                "class": "DepictionSeparatorView"
-            },
-            {
-                "class": "DepictionHeaderView",
-                "title": "Informations",
-                "useBoldText": true
-            },
-            {
-                "class": "DepictionTableTextView",
-                "title": "Devices",
-                "text": "Only iPad 7 | Только iPad 7"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "title": "Compatibility",
-                "text": "18.0 - 18.7.1"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "title": "Price",
-                "text": "Free"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "text": "06.10.2025",
-                "title": "Last Time Updated"
-            },
-            {
-                "class": "DepictionTableTextView",
-                "text": "04.10.2025",
-                "title": "Released"
-            }],
-               "xPadding": 10
-            },
-            {
-                "class": "DepictionStackView",
-                "tabname": "Changelog",
-                "views": [
-            {
-                "class": "DepictionSubheaderView",
-                "title": "Version 1.0.1"
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "- Minor fix"
-            },
-            {
-                "class": "DepictionSubheaderView",
-                "title": "Version 1.0"
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "- Release"
-            }
-         ]
-      }
-   ],
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Informations",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Devices",
+                    "text": "iPhone & iPad"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "18.0 - 26.0.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "19.10.2025",
+                    "title": "Last Time Updated"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "04.10.2025",
+                    "title": "Released"
+                }],
+            "xPadding": 10
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- New design\n- Quick video search\n- Support iOS 26 (Liquid Glass and other)."
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Minor fix"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Release"
+                }
+            ]
+        }
+    ],
 }
