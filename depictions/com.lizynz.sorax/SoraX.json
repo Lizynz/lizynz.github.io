@@ -65,6 +65,14 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "Version 1.0.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fixed download"
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "Version 1.0.2"
                 },
                 {
