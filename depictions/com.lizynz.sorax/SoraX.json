@@ -16,6 +16,10 @@
                         },
                         {
                             "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.sorax/screenshots/3.jpeg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
                             "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.sorax/screenshots/2.jpeg"
                         }]
                 },
@@ -40,7 +44,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "18.0 - 26.0.1"
+                    "text": "18.0 - 26.2"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -49,7 +53,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "19.10.2025",
+                    "text": "20.11.2025",
                     "title": "Last Time Updated"
                 },
                 {
@@ -63,6 +67,14 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fixed download\n- Added zone to avoid conflicts with other gestures\n- Support for iOS 26.2\n- Open source"
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0.3"

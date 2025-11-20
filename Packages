@@ -52,16 +52,16 @@ Name: ShadowBuster
 Sileodepiction: https://lizynz.github.io/depictions/com.lizynz.shadowbuster/ShadowBuster.json
 
 Package: com.lizynz.sorax
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: Lizynz <lizynz@ya.ru>
-Installed-Size: 1284
+Installed-Size: 140
 Depends: mobilesubstrate, firmware(>=18.0)
-Filename: ./debs/com.lizynz.sorax_1.0.3_iphoneos-arm64.deb
-Size: 256316
-MD5sum: 0fc78ca7f83d67160cde57d9d59ada9d
-SHA1: 9bef8d79353c397196cdb83e17877b30936be179
-SHA256: 72ae79e00b94c78e3ea5b139704c2413abd66440adadac3a05444a4e0fb1dae2
+Filename: ./debs/com.lizynz.sorax_1.0.4_iphoneos-arm64.deb
+Size: 26188
+MD5sum: a6e4259399688abefcde92582bcf0b36
+SHA1: e8863835d86a18eaf4d91ede1e710218cdbe2f41
+SHA256: 9554f208a8418937ebc27fe9fec5ec7f8aae5ac0c5c999e5d72fcf92c3ec571f
 Section: Tweaks
 Description: Downloading video from the Sora app.
 Author: Lizynz <lizynz@ya.ru>
