@@ -29,14 +29,6 @@
                     {
                         "accessibilityText": "Screenshot4",
                         "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F5.jpeg"
-                    },
-                    {
-                        "accessibilityText": "Screenshot5",
-                        "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F6.jpeg"
-                    },
-                    {
-                                "accessibilityText": "Screenshot6",
-                                "url": "https://raw.githubusercontent.com/Lizynz/lizynz.github.io/master/depictions/com.lizynz.folderx/screenshots/F7.jpeg"
                     }]
             },
             {
@@ -60,7 +52,7 @@
             {
                 "class": "DepictionTableTextView",
                 "title": "Compatibility",
-                "text": "14.x - 18.x"
+                "text": "14.0 - 26.0.1"
             },
             {
                 "class": "DepictionTableTextView",
@@ -69,7 +61,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "21.09.2024",
+                "text": "20.09.2026",
                 "title": "Last Time Updated"
             },
             {
@@ -83,6 +75,14 @@
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 2.1"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "\n- Update launcher.\n- Fix more bugs.\n- Add support for iOS/iPadOS 26."
+            },
             {
                 "class": "DepictionSubheaderView",
                 "title": "Version 2.0"
